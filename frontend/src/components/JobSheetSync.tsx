@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { api, Job, SpreadsheetItem, ColumnMapping, JobSheetSyncResult, ResponseQuestion, HeaderAnalysisResult } from '@/lib/api';
+import { api, Job, SpreadsheetItem, ColumnMapping, JobSheetSyncResult, ResponseQuestion } from '@/lib/api';
 import { labelToKey, ensureUniqueKey } from '@/lib/utils';
 
 interface JobSheetSyncProps {
@@ -224,12 +224,6 @@ export default function JobSheetSync({ jobId, job, onSyncComplete }: JobSheetSyn
       initFromExistingConfig(headersList);
       setStep(2);
     }
-  };
-
-  // When user clicks "Change Sheet" to pick a different one
-  const handleStartSelectSheet = async () => {
-    await loadSpreadsheets();
-    setStep(1);
   };
 
   const handleFixedMappingChange = (key: keyof FixedMappingState, value: string) => {
