@@ -1,0 +1,72 @@
+{
+  "system_interview_invitation": {
+    "id": "system_interview_invitation",
+    "name": "Interview Invitation",
+    "email_type": "interview_invitation",
+    "subject_template": "Interview Invitation: {{position}} at {{company}}",
+    "body_template": "Dear {{name}},\n\nThank you for your application for the {{position}} role at {{company}}. We were impressed by your background and would like to invite you for an interview.\n\nPlease book your interview slot at your earliest convenience:\n{{booking_link}}\n\nIf you have any questions or need to reschedule, please don't hesitate to reach out.\n\nBest regards,\n{{sender_name}}\n{{company}}",
+    "is_system": true,
+    "created_at": "2026-02-08T20:04:10.645326",
+    "updated_at": "2026-02-08T20:04:58.094467"
+  },
+  "system_rejection": {
+    "id": "system_rejection",
+    "name": "Application Status Update",
+    "email_type": "rejection",
+    "subject_template": "Application Update: {{position}} at {{company}}",
+    "body_template": "Dear {{name}},\n\nThank you for your interest in the {{position}} position at {{company}} and for taking the time to apply.\n\nAfter careful consideration, we have decided to move forward with other candidates whose experience more closely matches our current needs.\n\nWe truly appreciate your interest in {{company}} and encourage you to apply for future opportunities that match your skills and experience.\n\nWe wish you the best in your career journey.\n\nBest regards,\n{{sender_name}}\n{{company}}",
+    "is_system": true,
+    "created_at": "2026-02-08T20:04:10.645477",
+    "updated_at": "2026-02-08T20:04:58.095000"
+  },
+  "system_follow_up": {
+    "id": "system_follow_up",
+    "name": "Interview Follow-up",
+    "email_type": "follow_up",
+    "subject_template": "Following Up: {{position}} Interview at {{company}}",
+    "body_template": "Dear {{name}},\n\nI hope this message finds you well. I wanted to follow up on our recent communication regarding the {{position}} position at {{company}}.\n\nIf you have any questions or need any additional information, please don't hesitate to reach out.\n\nLooking forward to hearing from you.\n\nBest regards,\n{{sender_name}}\n{{company}}",
+    "is_system": true,
+    "created_at": "2026-02-08T20:04:10.645479",
+    "updated_at": "2026-02-08T20:04:58.095115"
+  },
+  "custom_e1e0eeba": {
+    "id": "custom_e1e0eeba",
+    "name": "Rejection",
+    "email_type": "rejection",
+    "subject_template": " Update on Your Application \u2013 {{position}} at {{company}}",
+    "body_template": "Dear {{name}},\n\nThank you so much for taking the time to interview with us for the {{position}} position at {{company}}. We really enjoyed getting to know you and learning about your experience.\n\nAfter thoughtful consideration, we've decided not to move forward with your application at this time.\n\nWe genuinely appreciate your interest in {{company}}, and we'd love for you to keep us in mind for future opportunities that may be a better fit.\n\nWishing you all the best ahead.",
+    "is_system": false,
+    "created_at": "2026-02-11T06:55:39.310474",
+    "updated_at": "2026-02-11T06:55:39.310562"
+  },
+  "custom_b27b3a9b": {
+    "id": "custom_b27b3a9b",
+    "name": "First Interview",
+    "email_type": "custom",
+    "subject_template": "Interview Invitation: {{position}} at {{company}}",
+    "body_template": "Dear {{name}},\nI hope this email finds you well. \n\nThank you for applying to the\u00a0{{position}}\u00a0role at Consolices. We were impressed by your background and would like to invite you for an interview.\n\nWe would like to invite you for an introductory call to discuss your skills, experiences, and interests. This call will provide an opportunity for us to get to know each other better and for you to learn more about Consolices and the exciting work we do in the IT services industry.\n\nThe call will take approximately 30 minutes and will be scheduled at a time that is convenient for you. During the call, we will discuss the open position, our company culture, and the next steps of the recruitment process.\n\nPlease book your interview slot at your earliest convenience:\n{{booking_link}}\n\nIf you have any questions or need to reschedule, please don't hesitate to reach out.\n\nBest regards,\n{{sender_name}}\n{{company}}",
+    "is_system": false,
+    "created_at": "2026-02-13T20:08:50.802832",
+    "updated_at": "2026-02-13T20:08:50.804291"
+  },
+  "system_technical_interview": {
+    "id": "system_technical_interview",
+    "name": "Technical Interview Invitation",
+    "email_type": "interview_invitation",
+    "subject_template": "Technical Interview: {{position}} at {{company}}",
+    "body_template": "Dear {{name}},\n\nThank you for your interest in the {{position}} role at {{company}}. After reviewing your application, we would like to invite you for a technical interview.\n\nThe interview will focus on the following areas:\n\n1. Data Structures & Algorithms\n   - Arrays, Linked Lists, Stacks, Queues, Trees, Graphs\n   - Searching, Sorting, and common algorithmic patterns\n\n2. Object-Oriented Programming\n   - Core principles: Encapsulation, Inheritance, Polymorphism, Abstraction\n   - Design patterns and SOLID principles\n\n3. Database Concepts\n   - SQL queries, joins, indexing, and normalization\n   - Relational vs. non-relational databases\n\n4. Coding Problems\n   - You will be asked to solve 1-2 coding problems\n   - You may use any programming language of your choice\n\nPlease book your interview slot here:\n{{booking_link}}\n\nWe recommend setting aside approximately 60 minutes for the interview. Feel free to use an IDE or a whiteboard tool during the coding section.\n\nIf you have any questions or need to reschedule, please don't hesitate to reach out.\n\nBest regards,\n{{sender_name}}\n{{company}}",
+    "is_system": true,
+    "created_at": "2026-02-16T14:31:51.248241",
+    "updated_at": "2026-02-17T06:50:05.034421"
+  },
+  "custom_1d9d8749": {
+    "id": "custom_1d9d8749",
+    "name": "Job Offer",
+    "email_type": "custom",
+    "subject_template": "Offer of Employment \u2013 {{position}} at {{company}}",
+    "body_template": "Subject: Offer of Employment \u2013 {{position}} at {{company}}\n\nDear {{name}},\n\nThank you for interviewing with us for the {{position}} position at {{company}}. We enjoyed getting to know you and learning about your background.\n\nWe are pleased to offer you the role of {{position}} with a monthly salary of PKR 50,000. This offer is subject to a 3-month probation period, during which your performance, learning ability, and adaptability to our workflows will be evaluated.\n\nAs this is an early-career role, we expect a strong willingness to learn, take feedback, and quickly align with our development practices and standards. Upon successful completion of the probation period, a salary review will be conducted based on your performance.\n\nPlease note that this is an onsite role. However, given that Ramadan is ongoing, you may work from home for the time being. We will inform you once we transition to the regular onsite schedule.\n\nPlease confirm your acceptance by {{acceptance_deadline}}. If you have any questions, feel free to reach out.\n\nWe look forward to having you on the team.\n\nBest regards,\n{{sender_name}}\n{{company}}",
+    "is_system": false,
+    "created_at": "2026-03-05T21:36:29.954794",
+    "updated_at": "2026-03-05T21:36:29.958843"
+  }
+}

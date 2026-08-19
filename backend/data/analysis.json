@@ -1,0 +1,3086 @@
+{
+  "268bfcbb-f591-4633-98d8-414485bfb0f2": {
+    "id": "268bfcbb-f591-4633-98d8-414485bfb0f2",
+    "candidate_id": "18a18958-724c-4e36-af2c-d498002352be",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "application_id": "52201029-21de-4e68-b37d-794cd85500d2",
+    "score": {
+      "overall_score": 85.7,
+      "job_match_score": {
+        "score": 91.4,
+        "years_experience": 8.0,
+        "skills_matched": [
+          "Kubernetes",
+          "Django",
+          "Express"
+        ],
+        "skills_missing": [
+          "Celery",
+          "Next.js",
+          "Python"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 82.6,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 24.0,
+        "spelling_errors": 4,
+        "grammar_issues": 2,
+        "project_complexity": 7,
+        "university_tier": "Top",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 85.0,
+        "dimension_scores": {
+          "introduction": 9,
+          "passion_description": 4,
+          "self_learning": 7
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Relevant stack"
+      ],
+      "summary": "Rehan has a background in Kubernetes, Django, Express and applied to this role with complete answers.",
+      "recommendation": "Strong Yes"
+    },
+    "analyzed_at": "2026-07-18T13:00:00",
+    "llm_model": "gpt-4"
+  },
+  "a5df8df8-c780-41e1-a5ca-dd0fae157971": {
+    "id": "a5df8df8-c780-41e1-a5ca-dd0fae157971",
+    "candidate_id": "1109567e-1f9c-44f4-b0d9-26a1b68ed947",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "application_id": "a7998be4-3601-4ffd-aadd-864f99fdaef1",
+    "score": {
+      "overall_score": 23.5,
+      "job_match_score": {
+        "score": 31.5,
+        "years_experience": 3.3,
+        "skills_matched": [
+          "Docker",
+          "AWS"
+        ],
+        "skills_missing": [
+          "GraphQL",
+          "FastAPI",
+          "Express"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 26.3,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 40.0,
+        "spelling_errors": 1,
+        "grammar_issues": 5,
+        "project_complexity": 7,
+        "university_tier": "Top",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 16.6,
+        "dimension_scores": {
+          "introduction": 9,
+          "passion_description": 3,
+          "self_learning": 10
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Relevant stack",
+        "Side projects shipped",
+        "Clear written communication"
+      ],
+      "summary": "Fatima has a background in Docker, AWS, TypeScript and applied to this role with complete answers.",
+      "recommendation": "No"
+    },
+    "analyzed_at": "2026-06-16T12:00:00",
+    "llm_model": "gpt-4"
+  },
+  "8da1a499-60fb-4f93-92f3-cde9e6d56f90": {
+    "id": "8da1a499-60fb-4f93-92f3-cde9e6d56f90",
+    "candidate_id": "1109567e-1f9c-44f4-b0d9-26a1b68ed947",
+    "job_id": "default-job",
+    "application_id": "d9cb377c-9a09-470c-a666-bd0baae80605",
+    "score": {
+      "overall_score": 90.6,
+      "job_match_score": {
+        "score": 93.9,
+        "years_experience": 3.3,
+        "skills_matched": [
+          "Docker",
+          "AWS"
+        ],
+        "skills_missing": [
+          "Express",
+          "FastAPI",
+          "Bubble.io"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 90.1,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 40.0,
+        "spelling_errors": 1,
+        "grammar_issues": 4,
+        "project_complexity": 9,
+        "university_tier": "Top",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 82.4,
+        "dimension_scores": {
+          "introduction": 8,
+          "passion_description": 5,
+          "self_learning": 4
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Steady progression",
+        "Clear written communication"
+      ],
+      "summary": "Fatima has a background in Docker, AWS, TypeScript and applied to this role with complete answers.",
+      "recommendation": "Strong Yes"
+    },
+    "analyzed_at": "2026-06-16T12:00:00",
+    "llm_model": "gpt-4"
+  },
+  "a6e7347a-cea2-4519-ba64-9100b88ff286": {
+    "id": "a6e7347a-cea2-4519-ba64-9100b88ff286",
+    "candidate_id": "9cdbca4a-dbfd-4a99-b41e-0b45c7b37977",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "application_id": "45cdc49e-c053-4cb8-8867-d6a700f80430",
+    "score": {
+      "overall_score": 93.8,
+      "job_match_score": {
+        "score": 87.3,
+        "years_experience": 2.1,
+        "skills_matched": [
+          "Jest",
+          "Flutter"
+        ],
+        "skills_missing": [
+          "Git",
+          "FastAPI"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 97.3,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 12.5,
+        "spelling_errors": 2,
+        "grammar_issues": 3,
+        "project_complexity": 8,
+        "university_tier": "Unknown",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 87.3,
+        "dimension_scores": {
+          "introduction": 6,
+          "passion_description": 6,
+          "self_learning": 5
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Clear written communication"
+      ],
+      "summary": "Vera has a background in Jest, Flutter, Celery and applied to this role with complete answers.",
+      "recommendation": "Strong Yes"
+    },
+    "analyzed_at": "2026-07-10T10:00:00",
+    "llm_model": "gpt-4"
+  },
+  "487f6335-122f-4b56-a25e-eb3d26f284d7": {
+    "id": "487f6335-122f-4b56-a25e-eb3d26f284d7",
+    "candidate_id": "41b303c5-4319-4ff2-ab60-19402d6c9052",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "application_id": "717e1d17-8ee0-4e39-88fb-70a27424e129",
+    "score": {
+      "overall_score": 64.8,
+      "job_match_score": {
+        "score": 64.8,
+        "years_experience": 5.5,
+        "skills_matched": [
+          "Express",
+          "GraphQL",
+          "AWS",
+          "Bubble.io"
+        ],
+        "skills_missing": [
+          "Python",
+          "Celery"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 68.6,
+        "career_gaps": [
+          {
+            "start_date": "2023-04",
+            "end_date": "2023-12",
+            "duration_months": 8,
+            "description": "Career break"
+          }
+        ],
+        "has_significant_gaps": true,
+        "avg_tenure_months": 33.0,
+        "spelling_errors": 1,
+        "grammar_issues": 1,
+        "project_complexity": 6,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 57.4,
+        "dimension_scores": {
+          "introduction": 5,
+          "passion_description": 8,
+          "self_learning": 9
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [
+        "Career gap over six months"
+      ],
+      "green_flags": [
+        "Steady progression",
+        "Side projects shipped"
+      ],
+      "summary": "Tara has a background in Express, GraphQL, AWS and applied to this role with complete answers.",
+      "recommendation": "Maybe"
+    },
+    "analyzed_at": "2026-06-15T15:00:00",
+    "llm_model": "gpt-4"
+  },
+  "2fecf5f9-db5e-43f9-8f18-6042a460653a": {
+    "id": "2fecf5f9-db5e-43f9-8f18-6042a460653a",
+    "candidate_id": "34093b2f-c2d8-4415-bc47-bccc14aad51e",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "application_id": "b66755bf-2146-4dca-89a6-73572d7793ee",
+    "score": {
+      "overall_score": 51.8,
+      "job_match_score": {
+        "score": 45.8,
+        "years_experience": 4.9,
+        "skills_matched": [
+          "React",
+          "GraphQL",
+          "React Native",
+          "Playwright"
+        ],
+        "skills_missing": [
+          "RabbitMQ",
+          "Docker",
+          "Tailwind CSS"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 53.0,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 19.7,
+        "spelling_errors": 0,
+        "grammar_issues": 4,
+        "project_complexity": 3,
+        "university_tier": "Top",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 60.3,
+        "dimension_scores": {
+          "introduction": 7,
+          "passion_description": 7,
+          "self_learning": 9
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Steady progression"
+      ],
+      "summary": "Musa has a background in React, GraphQL, React Native and applied to this role with complete answers.",
+      "recommendation": "Maybe"
+    },
+    "analyzed_at": "2026-07-29T10:00:00",
+    "llm_model": "gpt-4"
+  },
+  "aab2062e-d69c-4790-8671-9573a61d1ce3": {
+    "id": "aab2062e-d69c-4790-8671-9573a61d1ce3",
+    "candidate_id": "f34c6096-c65e-4788-85a6-7e7495a72ef9",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "application_id": "030150c3-3610-46a6-ab9e-dfb921ccbb18",
+    "score": {
+      "overall_score": 80.9,
+      "job_match_score": {
+        "score": 73.7,
+        "years_experience": 6.0,
+        "skills_matched": [
+          "TypeScript",
+          "Tailwind CSS",
+          "Next.js",
+          "Express"
+        ],
+        "skills_missing": [
+          "MongoDB"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 72.9,
+        "career_gaps": [
+          {
+            "start_date": "2023-04",
+            "end_date": "2023-12",
+            "duration_months": 8,
+            "description": "Career break"
+          }
+        ],
+        "has_significant_gaps": true,
+        "avg_tenure_months": 24.0,
+        "spelling_errors": 3,
+        "grammar_issues": 4,
+        "project_complexity": 7,
+        "university_tier": "Unknown",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 79.7,
+        "dimension_scores": {
+          "introduction": 10,
+          "passion_description": 10,
+          "self_learning": 8
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [
+        "Career gap over six months",
+        "Short average tenure"
+      ],
+      "green_flags": [
+        "Clear written communication",
+        "Relevant stack"
+      ],
+      "summary": "Beatriz has a background in TypeScript, Tailwind CSS, Next.js and applied to this role with complete answers.",
+      "recommendation": "Yes"
+    },
+    "analyzed_at": "2026-07-23T12:00:00",
+    "llm_model": "gpt-4"
+  },
+  "6ee60afb-8a72-4bd7-bc7d-967d12cb35e9": {
+    "id": "6ee60afb-8a72-4bd7-bc7d-967d12cb35e9",
+    "candidate_id": "eb909406-ee19-4f5b-b6e3-710b9f55c1e2",
+    "job_id": "default-job",
+    "application_id": "ace8c118-5344-416a-9e7f-00de9594ad9a",
+    "score": {
+      "overall_score": 89.9,
+      "job_match_score": {
+        "score": 85.0,
+        "years_experience": 4.8,
+        "skills_matched": [
+          "Bubble.io",
+          "Python",
+          "Django",
+          "Node.js",
+          "Next.js"
+        ],
+        "skills_missing": [
+          "Docker",
+          "TypeScript",
+          "Git"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 94.3,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 19.3,
+        "spelling_errors": 2,
+        "grammar_issues": 1,
+        "project_complexity": 8,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 98.9,
+        "dimension_scores": {
+          "introduction": 4,
+          "passion_description": 3,
+          "self_learning": 3
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [
+        "Short average tenure"
+      ],
+      "green_flags": [
+        "Side projects shipped",
+        "Relevant stack"
+      ],
+      "summary": "Sana has a background in Bubble.io, Python, Django and applied to this role with complete answers.",
+      "recommendation": "Strong Yes"
+    },
+    "analyzed_at": "2026-06-23T18:00:00",
+    "llm_model": "gpt-4"
+  },
+  "48489924-52bc-443a-a83c-45ad8857444c": {
+    "id": "48489924-52bc-443a-a83c-45ad8857444c",
+    "candidate_id": "1668c68c-ac5c-4db2-9b66-8712d05577eb",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "application_id": "08fe8f4a-0430-4368-be1d-452da5f7eeba",
+    "score": {
+      "overall_score": 54.6,
+      "job_match_score": {
+        "score": 60.6,
+        "years_experience": 5.6,
+        "skills_matched": [
+          "Docker",
+          "Celery",
+          "MongoDB",
+          "Node.js",
+          "Django"
+        ],
+        "skills_missing": [
+          "RabbitMQ",
+          "Bubble.io"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 60.8,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 22.3,
+        "spelling_errors": 0,
+        "grammar_issues": 2,
+        "project_complexity": 4,
+        "university_tier": "Top",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 56.5,
+        "dimension_scores": {
+          "introduction": 7,
+          "passion_description": 10,
+          "self_learning": 5
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Relevant stack"
+      ],
+      "summary": "Priya has a background in Docker, Celery, MongoDB and applied to this role with complete answers.",
+      "recommendation": "Maybe"
+    },
+    "analyzed_at": "2026-07-17T11:00:00",
+    "llm_model": "gpt-4"
+  },
+  "c537bbeb-eb01-43d6-8115-b58b3786ee3f": {
+    "id": "c537bbeb-eb01-43d6-8115-b58b3786ee3f",
+    "candidate_id": "eb1a1137-f16f-4ea3-9887-9625c227f0b7",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "application_id": "bea43579-6dd3-4fdf-9761-befc769da2c6",
+    "score": {
+      "overall_score": 83.7,
+      "job_match_score": {
+        "score": 90.2,
+        "years_experience": 1.5,
+        "skills_matched": [
+          "Redis",
+          "RabbitMQ",
+          "TypeScript",
+          "FastAPI",
+          "PostgreSQL"
+        ],
+        "skills_missing": [
+          "GraphQL"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 91.0,
+        "career_gaps": [
+          {
+            "start_date": "2023-04",
+            "end_date": "2023-12",
+            "duration_months": 8,
+            "description": "Career break"
+          }
+        ],
+        "has_significant_gaps": true,
+        "avg_tenure_months": 18.0,
+        "spelling_errors": 1,
+        "grammar_issues": 4,
+        "project_complexity": 7,
+        "university_tier": "Top",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 91.3,
+        "dimension_scores": {
+          "introduction": 8,
+          "passion_description": 9,
+          "self_learning": 9
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [
+        "Career gap over six months",
+        "Short average tenure"
+      ],
+      "green_flags": [
+        "Clear written communication"
+      ],
+      "summary": "Gabriel has a background in Redis, RabbitMQ, TypeScript and applied to this role with complete answers.",
+      "recommendation": "Strong Yes"
+    },
+    "analyzed_at": "2026-06-03T10:00:00",
+    "llm_model": "gpt-4"
+  },
+  "bbbb3b12-8df5-4ee0-8ad9-77049d44c694": {
+    "id": "bbbb3b12-8df5-4ee0-8ad9-77049d44c694",
+    "candidate_id": "6a497e5d-5ebc-4a0d-8920-ca98ad992e3f",
+    "job_id": "default-job",
+    "application_id": "752dd723-1aa0-48d6-9bfe-78f737603d29",
+    "score": {
+      "overall_score": 70.5,
+      "job_match_score": {
+        "score": 78.5,
+        "years_experience": 9.2,
+        "skills_matched": [
+          "GraphQL",
+          "Git",
+          "Django",
+          "Redis"
+        ],
+        "skills_missing": [
+          "RabbitMQ",
+          "Jest"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 74.7,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 27.5,
+        "spelling_errors": 1,
+        "grammar_issues": 4,
+        "project_complexity": 9,
+        "university_tier": "Top",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 63.1,
+        "dimension_scores": {
+          "introduction": 4,
+          "passion_description": 10,
+          "self_learning": 8
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Steady progression"
+      ],
+      "summary": "Yara has a background in GraphQL, Git, Django and applied to this role with complete answers.",
+      "recommendation": "Yes"
+    },
+    "analyzed_at": "2026-07-21T10:00:00",
+    "llm_model": "gpt-4"
+  },
+  "da3a3ef9-6982-4342-bb37-f99ba1aa8dae": {
+    "id": "da3a3ef9-6982-4342-bb37-f99ba1aa8dae",
+    "candidate_id": "7a5583f2-1943-4389-9d0b-22ad49074eb5",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "application_id": "89e67927-9bf0-413b-a168-bd2959f15e90",
+    "score": {
+      "overall_score": 86.3,
+      "job_match_score": {
+        "score": 91.2,
+        "years_experience": 5.1,
+        "skills_matched": [
+          "Flutter",
+          "Terraform",
+          "Docker",
+          "Git"
+        ],
+        "skills_missing": [
+          "GraphQL",
+          "Django",
+          "MongoDB"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 74.4,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 15.2,
+        "spelling_errors": 0,
+        "grammar_issues": 3,
+        "project_complexity": 4,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 87.7,
+        "dimension_scores": {
+          "introduction": 6,
+          "passion_description": 10,
+          "self_learning": 9
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Clear written communication",
+        "Relevant stack"
+      ],
+      "summary": "Gita has a background in Flutter, Terraform, Docker and applied to this role with complete answers.",
+      "recommendation": "Strong Yes"
+    },
+    "analyzed_at": "2026-06-25T15:00:00",
+    "llm_model": "gpt-4"
+  },
+  "c3087f46-f725-400d-aea7-3825c0b6adff": {
+    "id": "c3087f46-f725-400d-aea7-3825c0b6adff",
+    "candidate_id": "b8eef351-12b5-40e0-aeab-0be878fb1ef4",
+    "job_id": "default-job",
+    "application_id": "00f8d2ae-7b87-4953-89db-70a4b5039f08",
+    "score": {
+      "overall_score": 50.0,
+      "job_match_score": {
+        "score": 56.7,
+        "years_experience": 2.6,
+        "skills_matched": [
+          "Django",
+          "Express",
+          "Docker",
+          "RabbitMQ",
+          "React Native"
+        ],
+        "skills_missing": [
+          "Playwright"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 54.4,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 31.0,
+        "spelling_errors": 3,
+        "grammar_issues": 2,
+        "project_complexity": 3,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 57.0,
+        "dimension_scores": {
+          "introduction": 10,
+          "passion_description": 4,
+          "self_learning": 9
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Clear written communication"
+      ],
+      "summary": "Rania has a background in Django, Express, Docker and applied to this role with complete answers.",
+      "recommendation": "Maybe"
+    },
+    "analyzed_at": "2026-07-04T14:00:00",
+    "llm_model": "gpt-4"
+  },
+  "dbe35b01-2a09-4ebb-b6e4-4e0896e3f57a": {
+    "id": "dbe35b01-2a09-4ebb-b6e4-4e0896e3f57a",
+    "candidate_id": "c10275b9-553a-4e86-977b-fd7df83d99e5",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "application_id": "ea7ba865-b3e4-4d22-9637-6a751f017588",
+    "score": {
+      "overall_score": 83.7,
+      "job_match_score": {
+        "score": 87.8,
+        "years_experience": 2.6,
+        "skills_matched": [
+          "GraphQL",
+          "Celery",
+          "Express"
+        ],
+        "skills_missing": [
+          "Git"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 77.0,
+        "career_gaps": [
+          {
+            "start_date": "2023-04",
+            "end_date": "2023-12",
+            "duration_months": 8,
+            "description": "Career break"
+          }
+        ],
+        "has_significant_gaps": true,
+        "avg_tenure_months": 31.0,
+        "spelling_errors": 4,
+        "grammar_issues": 5,
+        "project_complexity": 6,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 85.8,
+        "dimension_scores": {
+          "introduction": 5,
+          "passion_description": 6,
+          "self_learning": 8
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [
+        "Career gap over six months"
+      ],
+      "green_flags": [
+        "Clear written communication"
+      ],
+      "summary": "Yara has a background in GraphQL, Celery, Express and applied to this role with complete answers.",
+      "recommendation": "Strong Yes"
+    },
+    "analyzed_at": "2026-07-06T10:00:00",
+    "llm_model": "gpt-4"
+  },
+  "a9fd21fa-964b-460f-8381-2bdec0111a28": {
+    "id": "a9fd21fa-964b-460f-8381-2bdec0111a28",
+    "candidate_id": "eba00b1c-e8e0-4b7f-a10f-8cf58344c6ce",
+    "job_id": "default-job",
+    "application_id": "a5900d92-d175-493d-8e6d-df45c37ed8a2",
+    "score": {
+      "overall_score": 39.5,
+      "job_match_score": {
+        "score": 39.8,
+        "years_experience": 5.5,
+        "skills_matched": [
+          "Playwright",
+          "Tailwind CSS",
+          "Django"
+        ],
+        "skills_missing": [
+          "FastAPI",
+          "Next.js"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 41.4,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 16.5,
+        "spelling_errors": 0,
+        "grammar_issues": 4,
+        "project_complexity": 3,
+        "university_tier": "Top",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 34.8,
+        "dimension_scores": {
+          "introduction": 5,
+          "passion_description": 8,
+          "self_learning": 9
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Clear written communication",
+        "Relevant stack"
+      ],
+      "summary": "Wasim has a background in Playwright, Tailwind CSS, Django and applied to this role with complete answers.",
+      "recommendation": "No"
+    },
+    "analyzed_at": "2026-06-05T11:00:00",
+    "llm_model": "gpt-4"
+  },
+  "b91d4ce0-ee3c-4c83-ab8d-a6832d3fe85b": {
+    "id": "b91d4ce0-ee3c-4c83-ab8d-a6832d3fe85b",
+    "candidate_id": "eba00b1c-e8e0-4b7f-a10f-8cf58344c6ce",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "application_id": "c690077b-88f7-413d-b5eb-e41bd9cdd58f",
+    "score": {
+      "overall_score": 70.2,
+      "job_match_score": {
+        "score": 74.5,
+        "years_experience": 5.5,
+        "skills_matched": [
+          "Playwright",
+          "Tailwind CSS"
+        ],
+        "skills_missing": [
+          "MongoDB",
+          "Python",
+          "React Native"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 61.2,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 16.5,
+        "spelling_errors": 4,
+        "grammar_issues": 5,
+        "project_complexity": 7,
+        "university_tier": "Top",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 78.4,
+        "dimension_scores": {
+          "introduction": 8,
+          "passion_description": 9,
+          "self_learning": 5
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Relevant stack"
+      ],
+      "summary": "Wasim has a background in Playwright, Tailwind CSS, Django and applied to this role with complete answers.",
+      "recommendation": "Yes"
+    },
+    "analyzed_at": "2026-06-05T11:00:00",
+    "llm_model": "gpt-4"
+  },
+  "0fe8d264-d43b-44f2-8980-e2182733b1e0": {
+    "id": "0fe8d264-d43b-44f2-8980-e2182733b1e0",
+    "candidate_id": "a7be52ae-a5ce-4ba6-ad19-1fd90eddaca6",
+    "job_id": "default-job",
+    "application_id": "2fe3e0da-c531-45e9-93fe-1b80ceea0dac",
+    "score": {
+      "overall_score": 89.6,
+      "job_match_score": {
+        "score": 94.3,
+        "years_experience": 3.9,
+        "skills_matched": [
+          "Docker",
+          "MongoDB",
+          "Kubernetes"
+        ],
+        "skills_missing": [
+          "Redis"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 90.1,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 23.5,
+        "spelling_errors": 4,
+        "grammar_issues": 2,
+        "project_complexity": 9,
+        "university_tier": "Top",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 88.1,
+        "dimension_scores": {
+          "introduction": 4,
+          "passion_description": 4,
+          "self_learning": 6
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Steady progression",
+        "Clear written communication"
+      ],
+      "summary": "Gita has a background in Docker, MongoDB, Kubernetes and applied to this role with complete answers.",
+      "recommendation": "Strong Yes"
+    },
+    "analyzed_at": "2026-07-14T11:00:00",
+    "llm_model": "gpt-4"
+  },
+  "4470a4fb-0e95-4816-a506-dd058cb5ee6e": {
+    "id": "4470a4fb-0e95-4816-a506-dd058cb5ee6e",
+    "candidate_id": "e471cac5-835b-42a8-a982-6299c5d00db7",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "application_id": "50d7e366-7e8e-4e70-a819-2c13ad0d2aa9",
+    "score": {
+      "overall_score": 55.6,
+      "job_match_score": {
+        "score": 58.5,
+        "years_experience": 2.8,
+        "skills_matched": [
+          "Python",
+          "Celery",
+          "Terraform",
+          "Jest",
+          "Playwright"
+        ],
+        "skills_missing": [
+          "RabbitMQ",
+          "GraphQL",
+          "PostgreSQL"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 60.6,
+        "career_gaps": [
+          {
+            "start_date": "2023-04",
+            "end_date": "2023-12",
+            "duration_months": 8,
+            "description": "Career break"
+          }
+        ],
+        "has_significant_gaps": true,
+        "avg_tenure_months": 16.5,
+        "spelling_errors": 1,
+        "grammar_issues": 3,
+        "project_complexity": 9,
+        "university_tier": "Top",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 49.6,
+        "dimension_scores": {
+          "introduction": 4,
+          "passion_description": 6,
+          "self_learning": 10
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [
+        "Career gap over six months"
+      ],
+      "green_flags": [
+        "Steady progression",
+        "Clear written communication",
+        "Side projects shipped"
+      ],
+      "summary": "Maya has a background in Python, Celery, Terraform and applied to this role with complete answers.",
+      "recommendation": "Maybe"
+    },
+    "analyzed_at": "2026-07-06T13:00:00",
+    "llm_model": "gpt-4"
+  },
+  "930b27d4-09bc-4762-8a41-94e203f9b8ed": {
+    "id": "930b27d4-09bc-4762-8a41-94e203f9b8ed",
+    "candidate_id": "3e049be7-4650-4642-bb66-f877cc829964",
+    "job_id": "default-job",
+    "application_id": "cf6f9bf3-4643-468f-bd37-564b4579e837",
+    "score": {
+      "overall_score": 63.7,
+      "job_match_score": {
+        "score": 58.3,
+        "years_experience": 8.4,
+        "skills_matched": [
+          "Docker",
+          "Tailwind CSS"
+        ],
+        "skills_missing": [
+          "FastAPI",
+          "Bubble.io"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 64.3,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 25.2,
+        "spelling_errors": 4,
+        "grammar_issues": 3,
+        "project_complexity": 8,
+        "university_tier": "Top",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 62.4,
+        "dimension_scores": {
+          "introduction": 8,
+          "passion_description": 4,
+          "self_learning": 9
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [
+        "Short average tenure"
+      ],
+      "green_flags": [
+        "Relevant stack",
+        "Steady progression"
+      ],
+      "summary": "Danish has a background in Docker, Tailwind CSS, Django and applied to this role with complete answers.",
+      "recommendation": "Maybe"
+    },
+    "analyzed_at": "2026-07-20T12:00:00",
+    "llm_model": "gpt-4"
+  },
+  "9a22ba3c-42f8-492a-8225-a7967beeb1cd": {
+    "id": "9a22ba3c-42f8-492a-8225-a7967beeb1cd",
+    "candidate_id": "c54c5c3c-1944-422a-9d52-a3886b742a22",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "application_id": "ea1077f0-566b-4939-9fe1-a5391cfa2d1d",
+    "score": {
+      "overall_score": 68.8,
+      "job_match_score": {
+        "score": 70.2,
+        "years_experience": 3.3,
+        "skills_matched": [
+          "TypeScript",
+          "Flutter",
+          "RabbitMQ"
+        ],
+        "skills_missing": [
+          "FastAPI",
+          "Node.js",
+          "Python"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 73.8,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 20.0,
+        "spelling_errors": 0,
+        "grammar_issues": 0,
+        "project_complexity": 7,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 69.0,
+        "dimension_scores": {
+          "introduction": 5,
+          "passion_description": 10,
+          "self_learning": 4
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Steady progression",
+        "Clear written communication",
+        "Relevant stack"
+      ],
+      "summary": "Oscar has a background in TypeScript, Flutter, RabbitMQ and applied to this role with complete answers.",
+      "recommendation": "Yes"
+    },
+    "analyzed_at": "2026-07-08T11:00:00",
+    "llm_model": "gpt-4"
+  },
+  "dcbf4eaf-5ff7-406f-b55c-db1a0e7ecbf7": {
+    "id": "dcbf4eaf-5ff7-406f-b55c-db1a0e7ecbf7",
+    "candidate_id": "504ab851-430c-45ed-930f-7add7d1959b3",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "application_id": "8711ea6c-5ebc-4b85-8ad9-eaa40fb6bbe3",
+    "score": {
+      "overall_score": 83.3,
+      "job_match_score": {
+        "score": 75.2,
+        "years_experience": 2.7,
+        "skills_matched": [
+          "React Native",
+          "PostgreSQL"
+        ],
+        "skills_missing": [
+          "Celery"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 81.4,
+        "career_gaps": [
+          {
+            "start_date": "2023-04",
+            "end_date": "2023-12",
+            "duration_months": 8,
+            "description": "Career break"
+          }
+        ],
+        "has_significant_gaps": true,
+        "avg_tenure_months": 10.7,
+        "spelling_errors": 0,
+        "grammar_issues": 1,
+        "project_complexity": 8,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 81.8,
+        "dimension_scores": {
+          "introduction": 6,
+          "passion_description": 10,
+          "self_learning": 7
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [
+        "Career gap over six months"
+      ],
+      "green_flags": [
+        "Clear written communication"
+      ],
+      "summary": "Adeel has a background in React Native, PostgreSQL, Playwright and applied to this role with complete answers.",
+      "recommendation": "Strong Yes"
+    },
+    "analyzed_at": "2026-06-05T16:00:00",
+    "llm_model": "gpt-4"
+  },
+  "14089c17-a02e-4c9e-814e-16561d1161b2": {
+    "id": "14089c17-a02e-4c9e-814e-16561d1161b2",
+    "candidate_id": "d49c4146-cdb3-4707-88de-749b42701f4a",
+    "job_id": "default-job",
+    "application_id": "367b0f4d-b4d4-4869-8599-aa6c44ddf87b",
+    "score": {
+      "overall_score": 68.9,
+      "job_match_score": {
+        "score": 73.4,
+        "years_experience": 6.8,
+        "skills_matched": [
+          "React Native",
+          "Git",
+          "PostgreSQL"
+        ],
+        "skills_missing": [
+          "Bubble.io"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 61.7,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 20.5,
+        "spelling_errors": 2,
+        "grammar_issues": 3,
+        "project_complexity": 5,
+        "university_tier": "Top",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 65.8,
+        "dimension_scores": {
+          "introduction": 8,
+          "passion_description": 4,
+          "self_learning": 10
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Clear written communication",
+        "Side projects shipped",
+        "Relevant stack"
+      ],
+      "summary": "Jamal has a background in React Native, Git, PostgreSQL and applied to this role with complete answers.",
+      "recommendation": "Yes"
+    },
+    "analyzed_at": "2026-06-30T14:00:00",
+    "llm_model": "gpt-4"
+  },
+  "e6ec043d-b74e-4498-a776-d6d44e79bbab": {
+    "id": "e6ec043d-b74e-4498-a776-d6d44e79bbab",
+    "candidate_id": "088eeb5b-fa72-43ab-85d3-c285052fb779",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "application_id": "bd896cab-3d31-4976-8e5c-86d0a06b2251",
+    "score": {
+      "overall_score": 88.5,
+      "job_match_score": {
+        "score": 81.8,
+        "years_experience": 1.8,
+        "skills_matched": [
+          "Django",
+          "Express",
+          "Kubernetes"
+        ],
+        "skills_missing": [
+          "Redis",
+          "Celery"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 94.0,
+        "career_gaps": [
+          {
+            "start_date": "2023-04",
+            "end_date": "2023-12",
+            "duration_months": 8,
+            "description": "Career break"
+          }
+        ],
+        "has_significant_gaps": true,
+        "avg_tenure_months": 10.5,
+        "spelling_errors": 2,
+        "grammar_issues": 1,
+        "project_complexity": 3,
+        "university_tier": "Unknown",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 84.6,
+        "dimension_scores": {
+          "introduction": 10,
+          "passion_description": 6,
+          "self_learning": 9
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [
+        "Career gap over six months"
+      ],
+      "green_flags": [
+        "Side projects shipped"
+      ],
+      "summary": "Oscar has a background in Django, Express, Kubernetes and applied to this role with complete answers.",
+      "recommendation": "Strong Yes"
+    },
+    "analyzed_at": "2026-06-10T18:00:00",
+    "llm_model": "gpt-4"
+  },
+  "d7a4e604-5cd0-4a1a-a762-170d3adfb150": {
+    "id": "d7a4e604-5cd0-4a1a-a762-170d3adfb150",
+    "candidate_id": "3d72e108-ae3a-40de-8014-76b655c56542",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "application_id": "67987a3c-a8fa-426d-9585-3170a08c057d",
+    "score": {
+      "overall_score": 78.6,
+      "job_match_score": {
+        "score": 86.8,
+        "years_experience": 2.1,
+        "skills_matched": [
+          "Redis",
+          "React",
+          "Docker"
+        ],
+        "skills_missing": [
+          "Bubble.io"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 68.0,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 12.5,
+        "spelling_errors": 3,
+        "grammar_issues": 3,
+        "project_complexity": 7,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 79.6,
+        "dimension_scores": {
+          "introduction": 8,
+          "passion_description": 7,
+          "self_learning": 7
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Steady progression",
+        "Clear written communication"
+      ],
+      "summary": "Emeka has a background in Redis, React, Docker and applied to this role with complete answers.",
+      "recommendation": "Yes"
+    },
+    "analyzed_at": "2026-06-20T12:00:00",
+    "llm_model": "gpt-4"
+  },
+  "71c4f6d4-c9a9-4b00-9db9-d6ae86a03b07": {
+    "id": "71c4f6d4-c9a9-4b00-9db9-d6ae86a03b07",
+    "candidate_id": "066025fd-e298-41da-bb53-44c1d20d6fd7",
+    "job_id": "default-job",
+    "application_id": "3dc09523-c2fc-4378-b63e-a49a4b1ab568",
+    "score": {
+      "overall_score": 82.1,
+      "job_match_score": {
+        "score": 74.6,
+        "years_experience": 6.7,
+        "skills_matched": [
+          "Celery",
+          "Redis"
+        ],
+        "skills_missing": [
+          "Node.js",
+          "Bubble.io"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 86.4,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 26.7,
+        "spelling_errors": 1,
+        "grammar_issues": 4,
+        "project_complexity": 3,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 86.4,
+        "dimension_scores": {
+          "introduction": 8,
+          "passion_description": 6,
+          "self_learning": 9
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Relevant stack",
+        "Clear written communication"
+      ],
+      "summary": "Farrukh has a background in Celery, Redis, Tailwind CSS and applied to this role with complete answers.",
+      "recommendation": "Strong Yes"
+    },
+    "analyzed_at": "2026-06-03T10:00:00",
+    "llm_model": "gpt-4"
+  },
+  "fa815e61-b552-465a-a807-ddaf296d2ccb": {
+    "id": "fa815e61-b552-465a-a807-ddaf296d2ccb",
+    "candidate_id": "2b1d06e9-63a6-4fc7-9f57-169d5e1d65a1",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "application_id": "4401aa72-5e90-4197-bae9-399ac222fbb3",
+    "score": {
+      "overall_score": 86.4,
+      "job_match_score": {
+        "score": 90.2,
+        "years_experience": 2.2,
+        "skills_matched": [
+          "Playwright",
+          "Express"
+        ],
+        "skills_missing": [
+          "Next.js",
+          "Terraform",
+          "AWS"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 91.1,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 26.0,
+        "spelling_errors": 0,
+        "grammar_issues": 2,
+        "project_complexity": 9,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 83.0,
+        "dimension_scores": {
+          "introduction": 6,
+          "passion_description": 5,
+          "self_learning": 5
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Side projects shipped",
+        "Steady progression"
+      ],
+      "summary": "Hassan has a background in Playwright, Express, Git and applied to this role with complete answers.",
+      "recommendation": "Strong Yes"
+    },
+    "analyzed_at": "2026-07-08T13:00:00",
+    "llm_model": "gpt-4"
+  },
+  "44f55750-fd65-4d4b-95af-15aeda940056": {
+    "id": "44f55750-fd65-4d4b-95af-15aeda940056",
+    "candidate_id": "2b1d06e9-63a6-4fc7-9f57-169d5e1d65a1",
+    "job_id": "default-job",
+    "application_id": "39e24538-5581-43a0-87ed-a6c7166ab884",
+    "score": {
+      "overall_score": 68.7,
+      "job_match_score": {
+        "score": 69.0,
+        "years_experience": 2.2,
+        "skills_matched": [
+          "Playwright",
+          "Express",
+          "Git",
+          "GraphQL",
+          "MongoDB"
+        ],
+        "skills_missing": [
+          "Python",
+          "PostgreSQL"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 57.3,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 26.0,
+        "spelling_errors": 0,
+        "grammar_issues": 3,
+        "project_complexity": 7,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 76.4,
+        "dimension_scores": {
+          "introduction": 10,
+          "passion_description": 4,
+          "self_learning": 6
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Steady progression",
+        "Relevant stack",
+        "Side projects shipped"
+      ],
+      "summary": "Hassan has a background in Playwright, Express, Git and applied to this role with complete answers.",
+      "recommendation": "Yes"
+    },
+    "analyzed_at": "2026-07-08T13:00:00",
+    "llm_model": "gpt-4"
+  },
+  "60b39489-a8b6-46ec-9ca1-a73e9b081779": {
+    "id": "60b39489-a8b6-46ec-9ca1-a73e9b081779",
+    "candidate_id": "08081637-79c3-40f4-9395-d7bc53155f58",
+    "job_id": "default-job",
+    "application_id": "2e8cd433-bfd5-43c4-bbdb-260607177653",
+    "score": {
+      "overall_score": 53.4,
+      "job_match_score": {
+        "score": 55.1,
+        "years_experience": 7.9,
+        "skills_matched": [
+          "MongoDB",
+          "Express",
+          "React",
+          "AWS",
+          "RabbitMQ"
+        ],
+        "skills_missing": [
+          "Terraform",
+          "PostgreSQL",
+          "Flutter"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 58.3,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 23.8,
+        "spelling_errors": 3,
+        "grammar_issues": 3,
+        "project_complexity": 7,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 61.0,
+        "dimension_scores": {
+          "introduction": 8,
+          "passion_description": 7,
+          "self_learning": 5
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Side projects shipped"
+      ],
+      "summary": "Sana has a background in MongoDB, Express, React and applied to this role with complete answers.",
+      "recommendation": "Maybe"
+    },
+    "analyzed_at": "2026-06-20T15:00:00",
+    "llm_model": "gpt-4"
+  },
+  "53af2606-4401-469d-9ad9-15f8c93705be": {
+    "id": "53af2606-4401-469d-9ad9-15f8c93705be",
+    "candidate_id": "44d84d39-f070-42ed-8714-6280fc8b8817",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "application_id": "53b05f02-c3ac-43f9-80cf-1b11d9ead679",
+    "score": {
+      "overall_score": 86.8,
+      "job_match_score": {
+        "score": 83.2,
+        "years_experience": 2.2,
+        "skills_matched": [
+          "Terraform",
+          "Jest"
+        ],
+        "skills_missing": [
+          "Node.js"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 79.6,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 26.0,
+        "spelling_errors": 4,
+        "grammar_issues": 0,
+        "project_complexity": 6,
+        "university_tier": "Top",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 84.8,
+        "dimension_scores": {
+          "introduction": 10,
+          "passion_description": 6,
+          "self_learning": 5
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Steady progression",
+        "Side projects shipped",
+        "Relevant stack"
+      ],
+      "summary": "Wasim has a background in Terraform, Jest, Docker and applied to this role with complete answers.",
+      "recommendation": "Strong Yes"
+    },
+    "analyzed_at": "2026-06-02T10:00:00",
+    "llm_model": "gpt-4"
+  },
+  "bb7d6e0c-bef5-4b69-9a9b-0a42baf0408f": {
+    "id": "bb7d6e0c-bef5-4b69-9a9b-0a42baf0408f",
+    "candidate_id": "1276ceaf-c521-4df5-9d87-02c26916dad4",
+    "job_id": "default-job",
+    "application_id": "2672f7f3-a617-440d-b321-76e4f2483af1",
+    "score": {
+      "overall_score": 51.0,
+      "job_match_score": {
+        "score": 45.4,
+        "years_experience": 4.6,
+        "skills_matched": [
+          "Django",
+          "Next.js",
+          "Express",
+          "Flutter",
+          "Jest"
+        ],
+        "skills_missing": [
+          "React",
+          "GraphQL",
+          "Redis"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 53.7,
+        "career_gaps": [
+          {
+            "start_date": "2023-04",
+            "end_date": "2023-12",
+            "duration_months": 8,
+            "description": "Career break"
+          }
+        ],
+        "has_significant_gaps": true,
+        "avg_tenure_months": 18.3,
+        "spelling_errors": 3,
+        "grammar_issues": 1,
+        "project_complexity": 7,
+        "university_tier": "Top",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 41.5,
+        "dimension_scores": {
+          "introduction": 10,
+          "passion_description": 4,
+          "self_learning": 10
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [
+        "Career gap over six months"
+      ],
+      "green_flags": [
+        "Side projects shipped"
+      ],
+      "summary": "Qasim has a background in Django, Next.js, Express and applied to this role with complete answers.",
+      "recommendation": "Maybe"
+    },
+    "analyzed_at": "2026-06-07T16:00:00",
+    "llm_model": "gpt-4"
+  },
+  "0d21a044-aac3-4922-beeb-4a3e9df965a9": {
+    "id": "0d21a044-aac3-4922-beeb-4a3e9df965a9",
+    "candidate_id": "6cc46817-4178-4d1b-8d53-94da403a5282",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "application_id": "1140651f-ff71-4bda-9383-3dacc2e06f0a",
+    "score": {
+      "overall_score": 63.1,
+      "job_match_score": {
+        "score": 58.1,
+        "years_experience": 3.1,
+        "skills_matched": [
+          "Kubernetes",
+          "MongoDB",
+          "Docker",
+          "Django"
+        ],
+        "skills_missing": [
+          "Next.js"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 63.3,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 18.5,
+        "spelling_errors": 4,
+        "grammar_issues": 3,
+        "project_complexity": 9,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 65.7,
+        "dimension_scores": {
+          "introduction": 4,
+          "passion_description": 7,
+          "self_learning": 5
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [
+        "Short average tenure"
+      ],
+      "green_flags": [
+        "Side projects shipped",
+        "Steady progression",
+        "Clear written communication"
+      ],
+      "summary": "Carla has a background in Kubernetes, MongoDB, Docker and applied to this role with complete answers.",
+      "recommendation": "Maybe"
+    },
+    "analyzed_at": "2026-07-15T11:00:00",
+    "llm_model": "gpt-4"
+  },
+  "b4c9303d-82b4-47cd-94fe-00ec754fefd9": {
+    "id": "b4c9303d-82b4-47cd-94fe-00ec754fefd9",
+    "candidate_id": "9a8aa232-a32a-4564-a785-05a20ac2a882",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "application_id": "c1a87e13-07f7-4aed-a472-d85af61e6ac4",
+    "score": {
+      "overall_score": 87.6,
+      "job_match_score": {
+        "score": 89.4,
+        "years_experience": 3.3,
+        "skills_matched": [
+          "Git",
+          "Next.js"
+        ],
+        "skills_missing": [
+          "Flutter"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 80.0,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 20.0,
+        "spelling_errors": 1,
+        "grammar_issues": 5,
+        "project_complexity": 8,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 83.5,
+        "dimension_scores": {
+          "introduction": 4,
+          "passion_description": 3,
+          "self_learning": 8
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Clear written communication"
+      ],
+      "summary": "Emeka has a background in Git, Next.js, RabbitMQ and applied to this role with complete answers.",
+      "recommendation": "Strong Yes"
+    },
+    "analyzed_at": "2026-07-01T12:00:00",
+    "llm_model": "gpt-4"
+  },
+  "c7015e71-dce5-4e7f-8e11-8898f4186516": {
+    "id": "c7015e71-dce5-4e7f-8e11-8898f4186516",
+    "candidate_id": "9a8aa232-a32a-4564-a785-05a20ac2a882",
+    "job_id": "default-job",
+    "application_id": "637ebbe6-b41b-4600-9ea1-c4300e6dbf60",
+    "score": {
+      "overall_score": 27.7,
+      "job_match_score": {
+        "score": 30.2,
+        "years_experience": 3.3,
+        "skills_matched": [
+          "Git",
+          "Next.js",
+          "RabbitMQ",
+          "Express",
+          "Django"
+        ],
+        "skills_missing": [
+          "React",
+          "React Native",
+          "AWS"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 29.8,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 20.0,
+        "spelling_errors": 4,
+        "grammar_issues": 1,
+        "project_complexity": 4,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 27.5,
+        "dimension_scores": {
+          "introduction": 5,
+          "passion_description": 6,
+          "self_learning": 5
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Side projects shipped"
+      ],
+      "summary": "Emeka has a background in Git, Next.js, RabbitMQ and applied to this role with complete answers.",
+      "recommendation": "No"
+    },
+    "analyzed_at": "2026-07-01T12:00:00",
+    "llm_model": "gpt-4"
+  },
+  "759671dd-a6b0-4d1f-abf2-1121fb95dfb1": {
+    "id": "759671dd-a6b0-4d1f-abf2-1121fb95dfb1",
+    "candidate_id": "8847b4a4-9f12-45b5-a283-32012d0f4f5f",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "application_id": "3f35af08-b9fa-44de-b4ef-09f8c709d3bb",
+    "score": {
+      "overall_score": 24.4,
+      "job_match_score": {
+        "score": 33.0,
+        "years_experience": 1.5,
+        "skills_matched": [
+          "Redis",
+          "Next.js",
+          "Express"
+        ],
+        "skills_missing": [
+          "Playwright",
+          "Terraform",
+          "Git"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 20.5,
+        "career_gaps": [
+          {
+            "start_date": "2023-04",
+            "end_date": "2023-12",
+            "duration_months": 8,
+            "description": "Career break"
+          }
+        ],
+        "has_significant_gaps": true,
+        "avg_tenure_months": 9.0,
+        "spelling_errors": 3,
+        "grammar_issues": 3,
+        "project_complexity": 7,
+        "university_tier": "Unknown",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 15.8,
+        "dimension_scores": {
+          "introduction": 5,
+          "passion_description": 6,
+          "self_learning": 5
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [
+        "Career gap over six months"
+      ],
+      "green_flags": [
+        "Side projects shipped",
+        "Steady progression",
+        "Clear written communication"
+      ],
+      "summary": "Adeel has a background in Redis, Next.js, Express and applied to this role with complete answers.",
+      "recommendation": "No"
+    },
+    "analyzed_at": "2026-07-03T10:00:00",
+    "llm_model": "gpt-4"
+  },
+  "aee3764f-7811-4d53-a08f-bbe1e94b41e4": {
+    "id": "aee3764f-7811-4d53-a08f-bbe1e94b41e4",
+    "candidate_id": "ae41d8d3-d341-4217-afbf-c5e09a7b8d15",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "application_id": "c28fca95-d536-4bb5-9526-0dd2337c3303",
+    "score": {
+      "overall_score": 51.3,
+      "job_match_score": {
+        "score": 53.7,
+        "years_experience": 5.0,
+        "skills_matched": [
+          "React Native",
+          "Terraform",
+          "Playwright",
+          "Kubernetes"
+        ],
+        "skills_missing": [
+          "Next.js"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 48.7,
+        "career_gaps": [
+          {
+            "start_date": "2023-04",
+            "end_date": "2023-12",
+            "duration_months": 8,
+            "description": "Career break"
+          }
+        ],
+        "has_significant_gaps": true,
+        "avg_tenure_months": 20.0,
+        "spelling_errors": 3,
+        "grammar_issues": 3,
+        "project_complexity": 7,
+        "university_tier": "Unknown",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 52.7,
+        "dimension_scores": {
+          "introduction": 5,
+          "passion_description": 7,
+          "self_learning": 7
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [
+        "Career gap over six months"
+      ],
+      "green_flags": [
+        "Clear written communication"
+      ],
+      "summary": "Rehan has a background in React Native, Terraform, Playwright and applied to this role with complete answers.",
+      "recommendation": "Maybe"
+    },
+    "analyzed_at": "2026-06-13T12:00:00",
+    "llm_model": "gpt-4"
+  },
+  "a43c6a45-7eb8-482e-82f7-81dbd3883d0e": {
+    "id": "a43c6a45-7eb8-482e-82f7-81dbd3883d0e",
+    "candidate_id": "808567aa-2485-4f5c-a7bf-dd889a168e92",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "application_id": "83c56de9-3718-4d80-a017-41cd33baa7c6",
+    "score": {
+      "overall_score": 43.7,
+      "job_match_score": {
+        "score": 35.9,
+        "years_experience": 3.3,
+        "skills_matched": [
+          "Redis",
+          "GraphQL",
+          "Terraform",
+          "Docker"
+        ],
+        "skills_missing": [
+          "Bubble.io",
+          "Git",
+          "RabbitMQ"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 33.5,
+        "career_gaps": [
+          {
+            "start_date": "2023-04",
+            "end_date": "2023-12",
+            "duration_months": 8,
+            "description": "Career break"
+          }
+        ],
+        "has_significant_gaps": true,
+        "avg_tenure_months": 40.0,
+        "spelling_errors": 4,
+        "grammar_issues": 4,
+        "project_complexity": 8,
+        "university_tier": "Top",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 37.1,
+        "dimension_scores": {
+          "introduction": 8,
+          "passion_description": 3,
+          "self_learning": 9
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [
+        "Career gap over six months"
+      ],
+      "green_flags": [
+        "Relevant stack",
+        "Side projects shipped"
+      ],
+      "summary": "Carla has a background in Redis, GraphQL, Terraform and applied to this role with complete answers.",
+      "recommendation": "No"
+    },
+    "analyzed_at": "2026-06-06T18:00:00",
+    "llm_model": "gpt-4"
+  },
+  "a6e6e17c-0c8d-4c6f-9041-c412cf371fd1": {
+    "id": "a6e6e17c-0c8d-4c6f-9041-c412cf371fd1",
+    "candidate_id": "eecbec48-8277-4a9b-8e12-504adec16f1b",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "application_id": "b2c67049-c700-4283-a00f-18463215106b",
+    "score": {
+      "overall_score": 58.2,
+      "job_match_score": {
+        "score": 65.0,
+        "years_experience": 1.8,
+        "skills_matched": [
+          "Celery",
+          "FastAPI"
+        ],
+        "skills_missing": [
+          "Django"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 56.7,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 10.5,
+        "spelling_errors": 4,
+        "grammar_issues": 2,
+        "project_complexity": 5,
+        "university_tier": "Top",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 48.9,
+        "dimension_scores": {
+          "introduction": 6,
+          "passion_description": 7,
+          "self_learning": 3
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Clear written communication",
+        "Side projects shipped",
+        "Relevant stack"
+      ],
+      "summary": "Priya has a background in Celery, FastAPI, Node.js and applied to this role with complete answers.",
+      "recommendation": "Maybe"
+    },
+    "analyzed_at": "2026-06-04T15:00:00",
+    "llm_model": "gpt-4"
+  },
+  "1a9a2d4c-b927-42d7-affa-9fdb1d219c2b": {
+    "id": "1a9a2d4c-b927-42d7-affa-9fdb1d219c2b",
+    "candidate_id": "939e3857-4eca-4984-ae12-8b9d395e31d4",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "application_id": "103ff92f-5419-4e2d-b65b-49227debba6b",
+    "score": {
+      "overall_score": 73.5,
+      "job_match_score": {
+        "score": 70.2,
+        "years_experience": 6.7,
+        "skills_matched": [
+          "GraphQL",
+          "Next.js",
+          "Django",
+          "Docker",
+          "PostgreSQL"
+        ],
+        "skills_missing": [
+          "RabbitMQ",
+          "Playwright"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 81.0,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 26.7,
+        "spelling_errors": 3,
+        "grammar_issues": 1,
+        "project_complexity": 7,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 76.2,
+        "dimension_scores": {
+          "introduction": 10,
+          "passion_description": 9,
+          "self_learning": 7
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Clear written communication"
+      ],
+      "summary": "Farrukh has a background in GraphQL, Next.js, Django and applied to this role with complete answers.",
+      "recommendation": "Yes"
+    },
+    "analyzed_at": "2026-07-29T15:00:00",
+    "llm_model": "gpt-4"
+  },
+  "777cbf79-9878-44c5-b906-34c1ae6f3aad": {
+    "id": "777cbf79-9878-44c5-b906-34c1ae6f3aad",
+    "candidate_id": "939e3857-4eca-4984-ae12-8b9d395e31d4",
+    "job_id": "default-job",
+    "application_id": "b019bb6f-c0c2-49ca-af0b-894afa67ebcb",
+    "score": {
+      "overall_score": 25.5,
+      "job_match_score": {
+        "score": 30.1,
+        "years_experience": 6.7,
+        "skills_matched": [
+          "GraphQL",
+          "Next.js"
+        ],
+        "skills_missing": [
+          "React Native",
+          "Redis",
+          "AWS"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 16.9,
+        "career_gaps": [
+          {
+            "start_date": "2023-04",
+            "end_date": "2023-12",
+            "duration_months": 8,
+            "description": "Career break"
+          }
+        ],
+        "has_significant_gaps": true,
+        "avg_tenure_months": 26.7,
+        "spelling_errors": 4,
+        "grammar_issues": 3,
+        "project_complexity": 3,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 16.5,
+        "dimension_scores": {
+          "introduction": 7,
+          "passion_description": 10,
+          "self_learning": 6
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [
+        "Career gap over six months"
+      ],
+      "green_flags": [
+        "Relevant stack",
+        "Steady progression"
+      ],
+      "summary": "Farrukh has a background in GraphQL, Next.js, Django and applied to this role with complete answers.",
+      "recommendation": "No"
+    },
+    "analyzed_at": "2026-07-29T15:00:00",
+    "llm_model": "gpt-4"
+  },
+  "5c2f71b4-cbe9-4798-8f86-f36d280a3b84": {
+    "id": "5c2f71b4-cbe9-4798-8f86-f36d280a3b84",
+    "candidate_id": "ea294b44-6fa3-43ac-bcdf-35e75906e8a7",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "application_id": "c54e764f-3918-48dc-b06f-addb9e248418",
+    "score": {
+      "overall_score": 92.0,
+      "job_match_score": {
+        "score": 88.3,
+        "years_experience": 2.7,
+        "skills_matched": [
+          "Kubernetes",
+          "Flutter"
+        ],
+        "skills_missing": [
+          "React"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 83.8,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 16.0,
+        "spelling_errors": 0,
+        "grammar_issues": 1,
+        "project_complexity": 7,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 98.0,
+        "dimension_scores": {
+          "introduction": 4,
+          "passion_description": 9,
+          "self_learning": 4
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Side projects shipped"
+      ],
+      "summary": "Yara has a background in Kubernetes, Flutter, Next.js and applied to this role with complete answers.",
+      "recommendation": "Strong Yes"
+    },
+    "analyzed_at": "2026-07-23T15:00:00",
+    "llm_model": "gpt-4"
+  },
+  "0d367bc0-7218-4f23-9ad9-a60259a87a23": {
+    "id": "0d367bc0-7218-4f23-9ad9-a60259a87a23",
+    "candidate_id": "ea294b44-6fa3-43ac-bcdf-35e75906e8a7",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "application_id": "dd12fdf7-2452-4b28-b4d1-0af3afea25e7",
+    "score": {
+      "overall_score": 92.2,
+      "job_match_score": {
+        "score": 91.3,
+        "years_experience": 2.7,
+        "skills_matched": [
+          "Kubernetes",
+          "Flutter",
+          "Next.js",
+          "Celery"
+        ],
+        "skills_missing": [
+          "Git",
+          "React Native",
+          "Python"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 95.7,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 16.0,
+        "spelling_errors": 0,
+        "grammar_issues": 2,
+        "project_complexity": 5,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 86.3,
+        "dimension_scores": {
+          "introduction": 6,
+          "passion_description": 4,
+          "self_learning": 5
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Side projects shipped"
+      ],
+      "summary": "Yara has a background in Kubernetes, Flutter, Next.js and applied to this role with complete answers.",
+      "recommendation": "Strong Yes"
+    },
+    "analyzed_at": "2026-07-23T15:00:00",
+    "llm_model": "gpt-4"
+  },
+  "df7dda07-3308-4e54-8d72-33cd2d317daa": {
+    "id": "df7dda07-3308-4e54-8d72-33cd2d317daa",
+    "candidate_id": "dbe7b259-ffab-4773-ad9d-90151e43519d",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "application_id": "017a4fad-7dfe-4a80-98b3-0dfba71281b0",
+    "score": {
+      "overall_score": 86.8,
+      "job_match_score": {
+        "score": 90.7,
+        "years_experience": 4.8,
+        "skills_matched": [
+          "PostgreSQL",
+          "React",
+          "Tailwind CSS",
+          "RabbitMQ"
+        ],
+        "skills_missing": [
+          "Terraform",
+          "React Native"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 93.2,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 29.0,
+        "spelling_errors": 2,
+        "grammar_issues": 3,
+        "project_complexity": 8,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 88.1,
+        "dimension_scores": {
+          "introduction": 4,
+          "passion_description": 6,
+          "self_learning": 9
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Steady progression"
+      ],
+      "summary": "Beatriz has a background in PostgreSQL, React, Tailwind CSS and applied to this role with complete answers.",
+      "recommendation": "Strong Yes"
+    },
+    "analyzed_at": "2026-07-10T17:00:00",
+    "llm_model": "gpt-4"
+  },
+  "c4ceaab6-1a99-467d-84b9-4c3e9b005e26": {
+    "id": "c4ceaab6-1a99-467d-84b9-4c3e9b005e26",
+    "candidate_id": "dbe7b259-ffab-4773-ad9d-90151e43519d",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "application_id": "e3a2bdea-06f4-4984-a0fe-c61180dafdbd",
+    "score": {
+      "overall_score": 74.9,
+      "job_match_score": {
+        "score": 76.0,
+        "years_experience": 4.8,
+        "skills_matched": [
+          "PostgreSQL",
+          "React",
+          "Tailwind CSS",
+          "RabbitMQ"
+        ],
+        "skills_missing": [
+          "Next.js",
+          "Django"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 69.1,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 29.0,
+        "spelling_errors": 1,
+        "grammar_issues": 5,
+        "project_complexity": 8,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 82.6,
+        "dimension_scores": {
+          "introduction": 7,
+          "passion_description": 5,
+          "self_learning": 9
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Steady progression",
+        "Clear written communication",
+        "Relevant stack"
+      ],
+      "summary": "Beatriz has a background in PostgreSQL, React, Tailwind CSS and applied to this role with complete answers.",
+      "recommendation": "Yes"
+    },
+    "analyzed_at": "2026-07-10T17:00:00",
+    "llm_model": "gpt-4"
+  },
+  "5bd350eb-e26e-4d69-8a60-f0267f0f7c05": {
+    "id": "5bd350eb-e26e-4d69-8a60-f0267f0f7c05",
+    "candidate_id": "54f74ae7-2506-4ffa-b5cd-6098c9557e4d",
+    "job_id": "default-job",
+    "application_id": "cd80056a-6e5d-4860-9f55-269ccd9900ba",
+    "score": {
+      "overall_score": 77.4,
+      "job_match_score": {
+        "score": 76.5,
+        "years_experience": 3.3,
+        "skills_matched": [
+          "Django",
+          "Playwright",
+          "Tailwind CSS",
+          "React"
+        ],
+        "skills_missing": [
+          "RabbitMQ",
+          "Git"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 84.0,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 20.0,
+        "spelling_errors": 0,
+        "grammar_issues": 4,
+        "project_complexity": 3,
+        "university_tier": "Top",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 82.9,
+        "dimension_scores": {
+          "introduction": 4,
+          "passion_description": 10,
+          "self_learning": 6
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Clear written communication"
+      ],
+      "summary": "Gabriel has a background in Django, Playwright, Tailwind CSS and applied to this role with complete answers.",
+      "recommendation": "Yes"
+    },
+    "analyzed_at": "2026-07-13T10:00:00",
+    "llm_model": "gpt-4"
+  },
+  "7f5af01e-16fb-4d19-8ad2-4540656de5de": {
+    "id": "7f5af01e-16fb-4d19-8ad2-4540656de5de",
+    "candidate_id": "1d889c33-d384-43c1-bc1f-b308ae41242d",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "application_id": "91467c48-5b15-4299-b0a2-08009eff2804",
+    "score": {
+      "overall_score": 86.6,
+      "job_match_score": {
+        "score": 87.2,
+        "years_experience": 6.4,
+        "skills_matched": [
+          "Terraform",
+          "AWS",
+          "GraphQL",
+          "Flutter"
+        ],
+        "skills_missing": [
+          "Git",
+          "Tailwind CSS"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 77.9,
+        "career_gaps": [
+          {
+            "start_date": "2023-04",
+            "end_date": "2023-12",
+            "duration_months": 8,
+            "description": "Career break"
+          }
+        ],
+        "has_significant_gaps": true,
+        "avg_tenure_months": 25.7,
+        "spelling_errors": 1,
+        "grammar_issues": 1,
+        "project_complexity": 3,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 86.3,
+        "dimension_scores": {
+          "introduction": 6,
+          "passion_description": 3,
+          "self_learning": 6
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [
+        "Career gap over six months"
+      ],
+      "green_flags": [
+        "Relevant stack",
+        "Clear written communication",
+        "Side projects shipped"
+      ],
+      "summary": "Qasim has a background in Terraform, AWS, GraphQL and applied to this role with complete answers.",
+      "recommendation": "Strong Yes"
+    },
+    "analyzed_at": "2026-07-20T09:00:00",
+    "llm_model": "gpt-4"
+  },
+  "0e3aa6f6-b539-4cd5-b68a-cdbae4475fba": {
+    "id": "0e3aa6f6-b539-4cd5-b68a-cdbae4475fba",
+    "candidate_id": "1d889c33-d384-43c1-bc1f-b308ae41242d",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "application_id": "e7a8e743-07ec-435d-a31b-b57b7660934d",
+    "score": {
+      "overall_score": 54.4,
+      "job_match_score": {
+        "score": 62.6,
+        "years_experience": 6.4,
+        "skills_matched": [
+          "Terraform",
+          "AWS",
+          "GraphQL",
+          "Flutter",
+          "React Native"
+        ],
+        "skills_missing": [
+          "MongoDB",
+          "Git",
+          "RabbitMQ"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 54.1,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 25.7,
+        "spelling_errors": 0,
+        "grammar_issues": 2,
+        "project_complexity": 4,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 52.2,
+        "dimension_scores": {
+          "introduction": 9,
+          "passion_description": 5,
+          "self_learning": 6
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Steady progression",
+        "Relevant stack"
+      ],
+      "summary": "Qasim has a background in Terraform, AWS, GraphQL and applied to this role with complete answers.",
+      "recommendation": "Maybe"
+    },
+    "analyzed_at": "2026-07-20T09:00:00",
+    "llm_model": "gpt-4"
+  },
+  "8d947f2e-b4bc-40c2-8a39-dcd52e712115": {
+    "id": "8d947f2e-b4bc-40c2-8a39-dcd52e712115",
+    "candidate_id": "b8ba0de4-cee9-490e-8c82-4de23542ba49",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "application_id": "eefb82c9-3088-4ade-9836-dd56195a91e5",
+    "score": {
+      "overall_score": 85.2,
+      "job_match_score": {
+        "score": 92.6,
+        "years_experience": 2.8,
+        "skills_matched": [
+          "Jest",
+          "Docker",
+          "AWS",
+          "Bubble.io",
+          "Git"
+        ],
+        "skills_missing": [
+          "GraphQL",
+          "FastAPI"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 91.6,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 16.5,
+        "spelling_errors": 3,
+        "grammar_issues": 0,
+        "project_complexity": 8,
+        "university_tier": "Top",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 76.7,
+        "dimension_scores": {
+          "introduction": 10,
+          "passion_description": 4,
+          "self_learning": 10
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Steady progression",
+        "Side projects shipped",
+        "Clear written communication"
+      ],
+      "summary": "Yara has a background in Jest, Docker, AWS and applied to this role with complete answers.",
+      "recommendation": "Strong Yes"
+    },
+    "analyzed_at": "2026-06-19T18:00:00",
+    "llm_model": "gpt-4"
+  },
+  "d0189163-b20b-4e13-88cc-cc25c95153ad": {
+    "id": "d0189163-b20b-4e13-88cc-cc25c95153ad",
+    "candidate_id": "7c52dbd4-bf84-45e8-a907-8d7fa18ba9d2",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "application_id": "24795294-9040-4d04-94bf-578d2e4144c4",
+    "score": {
+      "overall_score": 90.9,
+      "job_match_score": {
+        "score": 91.8,
+        "years_experience": 2.6,
+        "skills_matched": [
+          "Bubble.io",
+          "MongoDB"
+        ],
+        "skills_missing": [
+          "React Native"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 87.3,
+        "career_gaps": [
+          {
+            "start_date": "2023-04",
+            "end_date": "2023-12",
+            "duration_months": 8,
+            "description": "Career break"
+          }
+        ],
+        "has_significant_gaps": true,
+        "avg_tenure_months": 31.0,
+        "spelling_errors": 3,
+        "grammar_issues": 3,
+        "project_complexity": 4,
+        "university_tier": "Top",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 94.8,
+        "dimension_scores": {
+          "introduction": 4,
+          "passion_description": 4,
+          "self_learning": 6
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [
+        "Career gap over six months"
+      ],
+      "green_flags": [
+        "Steady progression",
+        "Relevant stack",
+        "Side projects shipped"
+      ],
+      "summary": "Vera has a background in Bubble.io, MongoDB, Node.js and applied to this role with complete answers.",
+      "recommendation": "Strong Yes"
+    },
+    "analyzed_at": "2026-06-23T09:00:00",
+    "llm_model": "gpt-4"
+  },
+  "7a6561fb-2989-4a6c-82ae-6186ac8c0368": {
+    "id": "7a6561fb-2989-4a6c-82ae-6186ac8c0368",
+    "candidate_id": "0241f811-182c-484a-990b-2c22d699e8ad",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "application_id": "f3f42d33-917f-40ec-b84e-684894bc84f5",
+    "score": {
+      "overall_score": 38.2,
+      "job_match_score": {
+        "score": 46.8,
+        "years_experience": 3.2,
+        "skills_matched": [
+          "Python",
+          "Playwright"
+        ],
+        "skills_missing": [
+          "React Native"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 27.1,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 19.0,
+        "spelling_errors": 4,
+        "grammar_issues": 1,
+        "project_complexity": 8,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 43.4,
+        "dimension_scores": {
+          "introduction": 6,
+          "passion_description": 8,
+          "self_learning": 9
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Steady progression",
+        "Relevant stack",
+        "Side projects shipped"
+      ],
+      "summary": "Farrukh has a background in Python, Playwright, Tailwind CSS and applied to this role with complete answers.",
+      "recommendation": "No"
+    },
+    "analyzed_at": "2026-06-25T09:00:00",
+    "llm_model": "gpt-4"
+  },
+  "0f166a5d-9623-4750-82c6-7ddb2ef6defa": {
+    "id": "0f166a5d-9623-4750-82c6-7ddb2ef6defa",
+    "candidate_id": "6ec8e5ce-aa99-4251-b2ff-24c3b8325dcb",
+    "job_id": "default-job",
+    "application_id": "6718996c-e082-46bf-9e73-02f5bcc90a4d",
+    "score": {
+      "overall_score": 55.0,
+      "job_match_score": {
+        "score": 51.8,
+        "years_experience": 5.3,
+        "skills_matched": [
+          "Node.js",
+          "TypeScript",
+          "Git",
+          "Redis"
+        ],
+        "skills_missing": [
+          "MongoDB",
+          "Jest",
+          "Kubernetes"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 44.0,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 21.3,
+        "spelling_errors": 1,
+        "grammar_issues": 2,
+        "project_complexity": 4,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 58.4,
+        "dimension_scores": {
+          "introduction": 6,
+          "passion_description": 6,
+          "self_learning": 3
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [
+        "Short average tenure"
+      ],
+      "green_flags": [
+        "Steady progression"
+      ],
+      "summary": "Adeel has a background in Node.js, TypeScript, Git and applied to this role with complete answers.",
+      "recommendation": "Maybe"
+    },
+    "analyzed_at": "2026-06-29T13:00:00",
+    "llm_model": "gpt-4"
+  },
+  "d33dbbed-17a2-47b0-8470-ad711d53854c": {
+    "id": "d33dbbed-17a2-47b0-8470-ad711d53854c",
+    "candidate_id": "82fc9c57-ae18-480a-9bf8-6af96eab8149",
+    "job_id": "default-job",
+    "application_id": "c57f2cf4-3eae-417c-976b-6319cb8075dc",
+    "score": {
+      "overall_score": 91.4,
+      "job_match_score": {
+        "score": 93.2,
+        "years_experience": 4.8,
+        "skills_matched": [
+          "Node.js",
+          "Tailwind CSS",
+          "FastAPI",
+          "MongoDB"
+        ],
+        "skills_missing": [
+          "Terraform",
+          "Kubernetes"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 83.6,
+        "career_gaps": [
+          {
+            "start_date": "2023-04",
+            "end_date": "2023-12",
+            "duration_months": 8,
+            "description": "Career break"
+          }
+        ],
+        "has_significant_gaps": true,
+        "avg_tenure_months": 19.3,
+        "spelling_errors": 4,
+        "grammar_issues": 4,
+        "project_complexity": 6,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 82.1,
+        "dimension_scores": {
+          "introduction": 9,
+          "passion_description": 9,
+          "self_learning": 4
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [
+        "Career gap over six months",
+        "Short average tenure"
+      ],
+      "green_flags": [
+        "Steady progression",
+        "Side projects shipped"
+      ],
+      "summary": "Vera has a background in Node.js, Tailwind CSS, FastAPI and applied to this role with complete answers.",
+      "recommendation": "Strong Yes"
+    },
+    "analyzed_at": "2026-06-08T17:00:00",
+    "llm_model": "gpt-4"
+  },
+  "2252a021-c326-4d4a-b7e6-7d7adcb5af35": {
+    "id": "2252a021-c326-4d4a-b7e6-7d7adcb5af35",
+    "candidate_id": "318e1b21-a924-42d2-8735-8a15b06090f9",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "application_id": "09474a9d-2808-4d93-b03d-682623e0eba2",
+    "score": {
+      "overall_score": 80.7,
+      "job_match_score": {
+        "score": 88.4,
+        "years_experience": 11.1,
+        "skills_matched": [
+          "Playwright",
+          "Next.js",
+          "Celery",
+          "TypeScript"
+        ],
+        "skills_missing": [
+          "RabbitMQ",
+          "Docker"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 77.7,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 33.2,
+        "spelling_errors": 2,
+        "grammar_issues": 3,
+        "project_complexity": 9,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 86.4,
+        "dimension_scores": {
+          "introduction": 8,
+          "passion_description": 8,
+          "self_learning": 4
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Relevant stack",
+        "Side projects shipped",
+        "Steady progression"
+      ],
+      "summary": "Adeel has a background in Playwright, Next.js, Celery and applied to this role with complete answers.",
+      "recommendation": "Yes"
+    },
+    "analyzed_at": "2026-06-20T12:00:00",
+    "llm_model": "gpt-4"
+  },
+  "48822c4f-31df-46da-afe4-81c2df0b4b18": {
+    "id": "48822c4f-31df-46da-afe4-81c2df0b4b18",
+    "candidate_id": "605adf98-86e0-439e-ab80-90bb4584f1c8",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "application_id": "b1391be7-5b8d-40b0-8012-04039d50df5f",
+    "score": {
+      "overall_score": 78.5,
+      "job_match_score": {
+        "score": 86.8,
+        "years_experience": 9.2,
+        "skills_matched": [
+          "Flutter",
+          "RabbitMQ",
+          "React",
+          "Django",
+          "AWS"
+        ],
+        "skills_missing": [
+          "Next.js"
+        ],
+        "notes": "Skill overlap assessed against the job description."
+      },
+      "screening_score": {
+        "score": 80.9,
+        "career_gaps": [],
+        "has_significant_gaps": false,
+        "avg_tenure_months": 27.8,
+        "spelling_errors": 4,
+        "grammar_issues": 5,
+        "project_complexity": 9,
+        "university_tier": "Mid",
+        "notes": "Tenure and CV quality reviewed."
+      },
+      "response_score": {
+        "score": 77.5,
+        "dimension_scores": {
+          "introduction": 5,
+          "passion_description": 8,
+          "self_learning": 10
+        },
+        "introduction_quality": null,
+        "passion_depth": null,
+        "self_learning_quality": null,
+        "notes": "Written answers reviewed for depth and specificity."
+      },
+      "red_flags": [],
+      "green_flags": [
+        "Relevant stack",
+        "Clear written communication",
+        "Steady progression"
+      ],
+      "summary": "Wasim has a background in Flutter, RabbitMQ, React and applied to this role with complete answers.",
+      "recommendation": "Yes"
+    },
+    "analyzed_at": "2026-07-04T17:00:00",
+    "llm_model": "gpt-4"
+  }
+}

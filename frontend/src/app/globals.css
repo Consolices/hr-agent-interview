@@ -1,0 +1,279 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ═══════════════════════════════════════════════
+   HR Agent — Notion-Inspired Warm Professional
+   ═══════════════════════════════════════════════ */
+
+@layer base {
+  :root {
+    /* Light blue-tinted background */
+    --background: 214 32% 97.5%;
+    --foreground: 214 14% 4%;
+
+    /* Pure white cards */
+    --card: 0 0% 100%;
+    --card-foreground: 214 14% 4%;
+
+    /* Cool blue-gray neutrals */
+    --muted: 214 16% 94.5%;
+    --muted-foreground: 214 6% 45%;
+
+    /* Cool borders */
+    --border: 214 12% 89.5%;
+    --input: 214 12% 89.5%;
+
+    /* Single accent: Notion blue */
+    --primary: 212 76% 51%;
+    --primary-foreground: 0 0% 100%;
+
+    /* Subtle blue wash for hover/active states */
+    --accent: 212 60% 96.5%;
+    --accent-foreground: 212 76% 42%;
+
+    --destructive: 0 84% 60%;
+    --ring: 212 76% 51%;
+
+    /* Softer radius */
+    --radius: 0.75rem;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* ── Scrollbar ────────────────────────────────── */
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--border));
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--muted-foreground) / 0.3);
+}
+
+/* ── Component Layer ──────────────────────────── */
+
+@layer components {
+
+  /* Cards — subtle shadow for depth on warm bg */
+  .card {
+    @apply bg-card border border-border rounded-lg
+           shadow-[0_1px_3px_0_rgba(0,0,0,0.04),0_1px_2px_-1px_rgba(0,0,0,0.03)];
+  }
+  .card-interactive {
+    @apply card transition-all duration-150
+           hover:shadow-[0_2px_8px_0_rgba(0,0,0,0.06),0_1px_3px_-1px_rgba(0,0,0,0.04)]
+           hover:border-border;
+  }
+  .card-glow {
+    @apply card-interactive;
+  }
+
+  /* Stat Cards */
+  .stat-card {
+    @apply card p-5;
+  }
+  .stat-value {
+    @apply text-2xl font-semibold tracking-tight text-foreground mt-1;
+  }
+  .stat-label {
+    @apply text-sm text-muted-foreground;
+  }
+
+  /* Buttons */
+  .btn {
+    @apply px-4 py-2 rounded-md text-sm font-medium
+           transition-all duration-150
+           inline-flex items-center justify-center gap-2
+           disabled:opacity-50 disabled:pointer-events-none
+           select-none cursor-pointer;
+  }
+  .btn-primary {
+    @apply btn bg-primary text-primary-foreground
+           hover:bg-primary/90
+           shadow-sm hover:shadow;
+  }
+  .btn-secondary {
+    @apply btn bg-card text-foreground border border-input
+           hover:bg-accent hover:text-accent-foreground
+           shadow-sm;
+  }
+  .btn-ghost {
+    @apply btn text-muted-foreground hover:text-foreground hover:bg-accent;
+  }
+  .btn-danger {
+    @apply btn bg-destructive/10 text-destructive border border-destructive/20
+           hover:bg-destructive/15;
+  }
+  .btn-success {
+    @apply btn bg-emerald-50 text-emerald-700 border border-emerald-200
+           hover:bg-emerald-100;
+  }
+
+  /* Inputs */
+  .input {
+    @apply w-full px-3 py-2 h-9
+           bg-card border border-input rounded-md
+           text-sm text-foreground placeholder:text-muted-foreground
+           focus:outline-none focus:ring-2 focus:ring-ring/20 focus:border-primary
+           transition-all duration-150;
+  }
+  .input-select {
+    @apply input appearance-none cursor-pointer pr-8
+           bg-[url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22%239ca3af%22%20stroke-width%3D%222%22%3E%3Cpath%20d%3D%22m6%209%206%206%206-6%22%2F%3E%3C%2Fsvg%3E')]
+           bg-[position:right_0.5rem_center] bg-no-repeat;
+  }
+
+  /* Badges */
+  .badge {
+    @apply inline-flex items-center gap-1 px-2 py-0.5
+           rounded-md text-xs font-medium border;
+  }
+  .badge-indigo  { @apply badge bg-indigo-50  text-indigo-700  border-indigo-200; }
+  .badge-emerald { @apply badge bg-emerald-50 text-emerald-700 border-emerald-200; }
+  .badge-amber   { @apply badge bg-amber-50   text-amber-700   border-amber-200; }
+  .badge-rose    { @apply badge bg-rose-50    text-rose-700    border-rose-200; }
+  .badge-zinc    { @apply badge bg-gray-50    text-gray-600    border-gray-200; }
+  .badge-sky     { @apply badge bg-sky-50     text-sky-700     border-sky-200; }
+  .badge-violet  { @apply badge bg-violet-50  text-violet-700  border-violet-200; }
+  .badge-teal    { @apply badge bg-teal-50    text-teal-700    border-teal-200; }
+  .badge-cyan    { @apply badge bg-cyan-50    text-cyan-700    border-cyan-200; }
+
+  /* Section headings */
+  .section-title {
+    @apply text-base font-semibold text-foreground tracking-tight;
+  }
+  .section-subtitle {
+    @apply text-sm text-muted-foreground;
+  }
+  .page-title {
+    @apply text-2xl font-semibold text-foreground tracking-tight;
+  }
+
+  /* Skeleton */
+  .skeleton {
+    @apply bg-muted rounded-md animate-pulse;
+  }
+
+  /* Score bar */
+  .score-bar {
+    @apply h-1.5 rounded-full transition-all duration-500 ease-out;
+  }
+
+  /* Tabs */
+  .tab-group {
+    @apply inline-flex items-center gap-1 p-1 bg-muted rounded-lg;
+  }
+  .tab {
+    @apply px-3 py-1.5 text-sm font-medium rounded-md
+           transition-all duration-150 cursor-pointer select-none
+           text-muted-foreground hover:text-foreground;
+  }
+  .tab-active {
+    @apply tab bg-card text-foreground shadow-sm;
+  }
+
+  /* Table */
+  .table-header {
+    @apply text-xs font-medium text-muted-foreground uppercase tracking-wider;
+  }
+  .table-cell {
+    @apply px-4 py-3 text-sm;
+  }
+  .table-row {
+    @apply border-b border-border transition-colors duration-100
+           hover:bg-accent/50;
+  }
+
+  /* Kanban Column */
+  .kanban-col {
+    @apply flex flex-col min-w-[272px] max-w-[272px] rounded-lg bg-muted/60 border border-border;
+  }
+  .kanban-col-header {
+    @apply px-3 py-2.5 flex items-center justify-between border-b border-border;
+  }
+  .kanban-col-body {
+    @apply flex-1 p-2 space-y-2 overflow-y-auto max-h-[calc(100vh-280px)];
+  }
+
+  /* Avatar */
+  .avatar {
+    @apply inline-flex items-center justify-center rounded-full bg-muted text-muted-foreground font-medium text-xs shrink-0;
+  }
+  .avatar-sm { @apply w-7 h-7 text-[11px]; }
+  .avatar-md { @apply w-9 h-9 text-xs; }
+  .avatar-lg { @apply w-11 h-11 text-sm; }
+
+  /* Score colors */
+  .score-high    { @apply text-emerald-600; }
+  .score-good    { @apply text-amber-600; }
+  .score-neutral { @apply text-muted-foreground; }
+  .score-low     { @apply text-destructive; }
+
+  /* Link styles — uses accent blue */
+  .link-primary {
+    @apply text-sm text-primary hover:text-primary/80 font-medium transition-colors underline underline-offset-4;
+  }
+
+  /* Empty state */
+  .empty-state {
+    @apply flex flex-col items-center justify-center py-12 text-center;
+  }
+  .empty-state-icon {
+    @apply w-10 h-10 text-muted-foreground/40 mb-3;
+  }
+  .empty-state-title {
+    @apply text-sm font-medium text-foreground mb-1;
+  }
+  .empty-state-desc {
+    @apply text-sm text-muted-foreground max-w-sm;
+  }
+
+  /* Alert boxes */
+  .alert-error {
+    @apply border border-destructive/20 bg-destructive/5 rounded-lg p-4 text-sm text-destructive;
+  }
+  .alert-success {
+    @apply border border-emerald-200 bg-emerald-50 rounded-lg p-4 text-sm text-emerald-700;
+  }
+  .alert-warning {
+    @apply border border-amber-200 bg-amber-50 rounded-lg p-4 text-sm text-amber-700;
+  }
+}
+
+/* ── Spinner ──────────────────────────────────── */
+
+.spinner {
+  border: 2px solid hsl(var(--border));
+  border-top-color: hsl(var(--primary));
+  border-radius: 50%;
+  animation: spin 0.6s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* ── Focus visible ────────────────────────────── */
+
+*:focus-visible {
+  outline: 2px solid hsl(var(--ring) / 0.4);
+  outline-offset: 2px;
+  border-radius: 4px;
+}

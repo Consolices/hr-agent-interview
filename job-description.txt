@@ -1,0 +1,61 @@
+Job description
+🚀 We're Hiring: Associate Full-Stack Developer
+📍 In-house (Lahore) | 🕒 Full-time | 💼 1-2 Years Experience
+
+
+Are you a problem-solver who thinks about products, not just code?
+
+
+At Consolices, we build web & mobile applications for US/EU clients using multiple technologies—React, Node.js, Python, Bubble.io, and AI tools. We solve real business problems and ship products that matter.
+
+
+As an Associate Software Engineer, you'll work on real client projects from day one. MVPs, SaaS products, marketplaces, AI integrations. Real work. Real impact.
+
+
+You'll work on:
+- Full-stack development (React, Node.js, Python, Bubble.io)
+- System architecture and database design
+- API integrations (Stripe, OpenAI, third-party services)
+- Taking messy requirements and turning them into working products
+- Direct client work (with mentorship from senior developers)
+
+
+🎯 Who we're looking for:
+We care less about syntax and more about how you think.
+
+
+You're a good fit if:
+✅ 1-2 years professional development experience (agency, startup, or freelance)
+✅ You can break down complex problems independently
+✅ You think about the product (why are we building this, not just how)
+✅ You're a strong communicator (explain technical things clearly to clients/team)
+✅ You're resourceful - figure things out without constant hand-holding
+✅ You're curious and want to learn new technologies quickly
+
+
+Technical experience (at least 2 of these):
+Built web applications with React, Vue, or Angular
+Backend development with Node.js, Python, or similar
+Database design and queries (SQL or NoSQL)
+RESTful APIs and third-party integrations
+Bonus: Bubble.io, AI tools (OpenAI/Claude), mobile development
+
+
+What matters more than your tech stack
+
+You've shipped real products (not just tutorial projects)
+You can work independently without micromanagement
+You ask smart questions when stuck
+You understand user needs, not just technical requirements
+
+
+💼 What we offer:
+
+Real work from day one (no fake training projects)
+Mentorship from senior developers
+Diverse tech stack (React, Node, Bubble, AI tools - you'll grow fast)
+Growth path as we scale (we're growing 30%+ YoY)
+
+
+📩 Interested? Apply now or tag someone who'd be a great fit!
+Apply: https://lnkd.in/duYkZg9m

@@ -1,0 +1,54 @@
+# --- Secrets / credentials (NEVER commit) ---
+.env
+.env.*
+!.env.example
+!.env.local.example
+*service-account*.json
+*credentials*.json
+*.pem
+*.key
+
+# --- Python ---
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# --- Node / Next.js ---
+node_modules/
+.next/
+out/
+build/
+dist/
+*.tsbuildinfo
+.npm/
+.eslintcache
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# --- Logs ---
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# --- Local runtime data ---
+# backend/data/*.json is SYNTHETIC seed data, generated for this sandbox, and is
+# tracked on purpose so the app runs out of the box. Real applicant records and
+# OAuth tokens must never be committed here.
+backend/data/uploads/
+backend/data/drive_token.json
+backend/data/.migrated*
+backend/data/*_export.csv
+uploads/
+tmp/
+
+# --- Playwright MCP scratch ---
+.playwright-mcp/

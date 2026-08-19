@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1280">
+<title>HR Agent - Mockup</title>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Outfit', -apple-system, sans-serif;
+    background: hsl(214 32% 97.5%);
+    color: hsl(214 14% 4%);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .shell { display: flex; height: 720px; overflow: hidden; border-radius: 16px; border: 1px solid hsl(214 12% 89.5%); box-shadow: 0 8px 40px rgba(0,0,0,.08); }
+
+  /* ── Sidebar ───────────────────────────────── */
+  .sidebar {
+    width: 210px; flex-shrink: 0;
+    background: hsl(214 32% 97.5%);
+    border-right: 1px solid hsl(214 12% 89.5%);
+    display: flex; flex-direction: column;
+    padding-top: 0;
+  }
+  .logo { display: flex; align-items: center; gap: 10px; padding: 20px 16px 24px; }
+  .logo-icon {
+    width: 32px; height: 32px; border-radius: 8px;
+    background: hsl(214 14% 4%); display: flex; align-items: center; justify-content: center;
+  }
+  .logo-text { font-size: 14px; font-weight: 600; letter-spacing: -0.3px; }
+
+  .nav { flex: 1; padding: 0 12px; }
+  .nav-item {
+    display: flex; align-items: center; gap: 10px;
+    padding: 8px 12px; border-radius: 6px;
+    font-size: 13.5px; font-weight: 500;
+    color: hsl(214 6% 45%); cursor: pointer;
+    transition: all .15s;
+    text-decoration: none;
+    margin-bottom: 2px;
+  }
+  .nav-item:hover { background: hsl(212 60% 96.5%); color: hsl(214 14% 4%); }
+  .nav-item.active { background: hsl(212 60% 96.5%); color: hsl(214 14% 4%); }
+  .nav-icon { width: 18px; height: 18px; opacity: .55; }
+  .nav-item.active .nav-icon, .nav-item:hover .nav-icon { opacity: 1; }
+
+  .nav-bottom { padding: 0 12px 16px; border-top: 1px solid hsl(214 12% 89.5%); padding-top: 12px; margin-top: auto; }
+
+  /* ── Main Content ──────────────────────────── */
+  .main { flex: 1; overflow-y: auto; background: hsl(214 32% 97.5%); }
+  .main-inner { max-width: 1100px; margin: 0 auto; padding: 32px 32px; }
+
+  /* Header */
+  .page-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 24px; }
+  .page-title { font-size: 22px; font-weight: 600; letter-spacing: -0.5px; }
+  .header-actions { display: flex; gap: 10px; align-items: center; }
+  .select-field {
+    padding: 6px 32px 6px 12px; border-radius: 6px; border: 1px solid hsl(214 12% 89.5%);
+    font-size: 13px; font-family: inherit; background: white;
+    appearance: none; cursor: pointer;
+    background-image: url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22none%22%20stroke%3D%22%239ca3af%22%20stroke-width%3D%222%22%3E%3Cpath%20d%3D%22m6%209%206%206%206-6%22/%3E%3C/svg%3E');
+    background-position: right 8px center; background-repeat: no-repeat;
+  }
+  .btn-primary {
+    padding: 7px 16px; border-radius: 6px; border: none;
+    background: hsl(212 76% 51%); color: white;
+    font-size: 13px; font-weight: 500; font-family: inherit;
+    cursor: pointer; display: flex; align-items: center; gap: 6px;
+    box-shadow: 0 1px 2px rgba(0,0,0,.08);
+  }
+  .btn-secondary {
+    padding: 7px 16px; border-radius: 6px;
+    border: 1px solid hsl(214 12% 89.5%);
+    background: white; color: hsl(214 14% 4%);
+    font-size: 13px; font-weight: 500; font-family: inherit;
+    cursor: pointer; display: flex; align-items: center; gap: 6px;
+    box-shadow: 0 1px 2px rgba(0,0,0,.04);
+  }
+
+  /* Stats row */
+  .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin-bottom: 24px; }
+  .stat-card {
+    background: white; border-radius: 10px; padding: 18px 20px;
+    border: 1px solid hsl(214 12% 89.5%);
+    box-shadow: 0 1px 3px rgba(0,0,0,.04), 0 1px 2px -1px rgba(0,0,0,.03);
+  }
+  .stat-label { font-size: 12.5px; color: hsl(214 6% 45%); }
+  .stat-value { font-size: 24px; font-weight: 600; letter-spacing: -0.5px; margin-top: 4px; }
+  .stat-sub { font-size: 11.5px; color: hsl(214 6% 45%); margin-top: 2px; }
+
+  /* Table */
+  .table-card {
+    background: white; border-radius: 10px; overflow: hidden;
+    border: 1px solid hsl(214 12% 89.5%);
+    box-shadow: 0 1px 3px rgba(0,0,0,.04), 0 1px 2px -1px rgba(0,0,0,.03);
+  }
+  table { width: 100%; border-collapse: collapse; }
+  thead tr { border-bottom: 1px solid hsl(214 12% 89.5%); }
+  th {
+    padding: 12px 16px; text-align: left;
+    font-size: 11px; font-weight: 500; text-transform: uppercase;
+    letter-spacing: 0.5px; color: hsl(214 6% 45%);
+  }
+  th:last-child { text-align: right; }
+  tbody tr { border-bottom: 1px solid hsl(214 12% 89.5%); transition: background .1s; }
+  tbody tr:last-child { border-bottom: none; }
+  tbody tr:hover { background: hsl(212 60% 96.5% / .5); }
+  td { padding: 12px 16px; font-size: 13.5px; vertical-align: middle; }
+  td:last-child { text-align: right; }
+
+  .rank { font-size: 13px; font-weight: 600; color: hsl(214 6% 45%); font-family: 'Outfit', monospace; }
+
+  /* Candidate cell */
+  .candidate-cell { display: flex; align-items: center; gap: 12px; }
+  .avatar {
+    width: 36px; height: 36px; border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 12px; font-weight: 600; flex-shrink: 0;
+    background: hsl(230 70% 95%); color: hsl(230 60% 50%);
+  }
+  .cand-name { font-size: 13.5px; font-weight: 500; color: hsl(214 14% 4%); filter: blur(5px); user-select: none; }
+  .cand-email { font-size: 12.5px; color: hsl(214 6% 45%); filter: blur(4px); user-select: none; }
+
+  /* Score */
+  .score { font-size: 18px; font-weight: 700; font-family: 'Outfit', monospace; }
+  .score-bar-track { width: 60px; height: 4px; border-radius: 2px; background: hsl(214 16% 94.5%); margin-top: 5px; }
+  .score-bar-fill { height: 4px; border-radius: 2px; }
+  .score-high { color: hsl(160 60% 38%); }
+  .score-good { color: hsl(38 92% 45%); }
+  .score-mid { color: hsl(214 6% 45%); }
+  .bar-high { background: hsl(160 60% 45%); }
+  .bar-good { background: hsl(38 92% 50%); }
+  .bar-mid { background: hsl(214 6% 70%); }
+
+  /* Badges */
+  .badge {
+    display: inline-flex; align-items: center; gap: 4px;
+    padding: 2px 8px; border-radius: 5px;
+    font-size: 11.5px; font-weight: 500; border: 1px solid;
+    white-space: nowrap;
+  }
+  .badge-sky     { background: hsl(199 89% 96%); color: hsl(199 70% 38%); border-color: hsl(199 60% 82%); }
+  .badge-indigo  { background: hsl(226 70% 96%); color: hsl(226 60% 48%); border-color: hsl(226 50% 82%); }
+  .badge-violet  { background: hsl(263 70% 96%); color: hsl(263 50% 48%); border-color: hsl(263 50% 82%); }
+  .badge-teal    { background: hsl(168 70% 95%); color: hsl(168 55% 35%); border-color: hsl(168 50% 80%); }
+  .badge-emerald { background: hsl(152 60% 95%); color: hsl(152 55% 35%); border-color: hsl(152 50% 78%); }
+  .badge-amber   { background: hsl(45 93% 95%); color: hsl(32 80% 38%); border-color: hsl(45 70% 78%); }
+  .badge-rose    { background: hsl(356 70% 96%); color: hsl(356 60% 45%); border-color: hsl(356 50% 82%); }
+  .badge-zinc    { background: hsl(0 0% 97%); color: hsl(0 0% 40%); border-color: hsl(0 0% 86%); }
+
+  .rec-strong-yes { background: hsl(152 60% 95%); color: hsl(152 55% 35%); border-color: hsl(152 50% 78%); }
+  .rec-yes        { background: hsl(168 70% 95%); color: hsl(168 55% 35%); border-color: hsl(168 50% 80%); }
+  .rec-maybe      { background: hsl(45 93% 95%); color: hsl(32 80% 38%); border-color: hsl(45 70% 78%); }
+  .rec-no         { background: hsl(356 70% 96%); color: hsl(356 60% 45%); border-color: hsl(356 50% 82%); }
+
+  .badges-row { display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
+
+  .link-view {
+    font-size: 12.5px; font-weight: 500; color: hsl(212 76% 51%);
+    text-decoration: underline; text-underline-offset: 3px;
+    cursor: pointer;
+  }
+
+  /* Watermark */
+  .watermark {
+    position: absolute; bottom: 16px; right: 24px;
+    font-size: 11px; color: hsl(214 6% 65%);
+    display: flex; align-items: center; gap: 6px;
+  }
+  .watermark-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: hsl(152 55% 45%);
+  }
+</style>
+</head>
+<body>
+<div style="padding: 20px; display: flex; justify-content: center;">
+<div class="shell" style="position: relative; width: 1240px;">
+
+  <!-- Sidebar -->
+  <div class="sidebar">
+    <div class="logo">
+      <div class="logo-icon">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/>
+          <circle cx="9" cy="7" r="4"/>
+          <path d="m21 12-2 2-2-2"/>
+          <path d="m19 14v-4"/>
+        </svg>
+      </div>
+      <span class="logo-text">HR Agent</span>
+    </div>
+
+    <div class="nav">
+      <a class="nav-item" href="#">
+        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>
+        Dashboard
+      </a>
+      <a class="nav-item" href="#">
+        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 7V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2"/><path d="M12 12h.01"/></svg>
+        Jobs
+      </a>
+      <a class="nav-item" href="#">
+        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><rect x="2" y="4" width="5" height="16" rx="1"/><rect x="9.5" y="4" width="5" height="16" rx="1"/><rect x="17" y="4" width="5" height="16" rx="1"/></svg>
+        Pipeline
+      </a>
+      <a class="nav-item active" href="#">
+        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+        Candidates
+      </a>
+      <a class="nav-item" href="#">
+        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+        Templates
+      </a>
+    </div>
+
+    <div class="nav-bottom">
+      <a class="nav-item" href="#">
+        <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"/><circle cx="12" cy="12" r="3"/></svg>
+        Settings
+      </a>
+    </div>
+  </div>
+
+  <!-- Main -->
+  <div class="main">
+    <div class="main-inner">
+
+      <!-- Page Header -->
+      <div class="page-header">
+        <div>
+          <h1 class="page-title">Candidates</h1>
+        </div>
+        <div class="header-actions">
+          <select class="select-field">
+            <option>Senior Full Stack Engineer</option>
+          </select>
+          <button class="btn-secondary">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            Upload CV
+          </button>
+          <button class="btn-primary">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4a2 2 0 0 1 2-2h4.586A2 2 0 0 1 12 2.586L15.414 6A2 2 0 0 1 16 7.414V8"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/><path d="m21 15-3 3-3-3"/><path d="M18 12v6"/><path d="M3 12a9 9 0 0 0 9 9"/></svg>
+            Analyze All
+          </button>
+        </div>
+      </div>
+
+      <!-- Stats -->
+      <div class="stats">
+        <div class="stat-card">
+          <div class="stat-label">Total Candidates</div>
+          <div class="stat-value">24</div>
+          <div class="stat-sub">from Google Sheets</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Analyzed</div>
+          <div class="stat-value" style="color: hsl(212 76% 51%);">18</div>
+          <div class="stat-sub">6 pending</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Avg. Score</div>
+          <div class="stat-value" style="color: hsl(160 60% 38%);">72</div>
+          <div class="stat-sub">across all analyzed</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Interviews</div>
+          <div class="stat-value" style="color: hsl(263 50% 48%);">5</div>
+          <div class="stat-sub">invitations sent</div>
+        </div>
+      </div>
+
+      <!-- Table -->
+      <div class="table-card">
+        <table>
+          <thead>
+            <tr>
+              <th style="width:56px">Rank</th>
+              <th>Candidate</th>
+              <th>Score</th>
+              <th>Status</th>
+              <th>Recommendation</th>
+              <th>Actions</th>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- 1 -->
+            <tr>
+              <td><span class="rank">#1</span></td>
+              <td>
+                <div class="candidate-cell">
+                  <div class="avatar" style="background:hsl(160 50% 93%);color:hsl(160 60% 35%);">AK</div>
+                  <div>
+                    <div class="cand-name">Ayesha Khan</div>
+                    <div class="cand-email">ayesha.khan@gmail.com</div>
+                  </div>
+                </div>
+              </td>
+              <td>
+                <div class="score score-high">91</div>
+                <div class="score-bar-track"><div class="score-bar-fill bar-high" style="width:91%"></div></div>
+              </td>
+              <td>
+                <div class="badges-row">
+                  <span class="badge badge-violet">Interview Invited</span>
+                  <span class="badge badge-indigo">1 Email</span>
+                </div>
+              </td>
+              <td><span class="badge rec-strong-yes">Strong Yes</span></td>
+              <td><span class="link-view">View</span></td>
+            </tr>
+            <!-- 2 -->
+            <tr>
+              <td><span class="rank">#2</span></td>
+              <td>
+                <div class="candidate-cell">
+                  <div class="avatar">HR</div>
+                  <div>
+                    <div class="cand-name">Hassan Raza</div>
+                    <div class="cand-email">hassan.raza@outlook.com</div>
+                  </div>
+                </div>
+              </td>
+              <td>
+                <div class="score score-high">85</div>
+                <div class="score-bar-track"><div class="score-bar-fill bar-high" style="width:85%"></div></div>
+              </td>
+              <td>
+                <div class="badges-row">
+                  <span class="badge badge-sky">Screened</span>
+                </div>
+              </td>
+              <td><span class="badge rec-yes">Yes</span></td>
+              <td><span class="link-view">View</span></td>
+            </tr>
+            <!-- 3 -->
+            <tr>
+              <td><span class="rank">#3</span></td>
+              <td>
+                <div class="candidate-cell">
+                  <div class="avatar" style="background:hsl(32 80% 93%);color:hsl(32 70% 38%);">SA</div>
+                  <div>
+                    <div class="cand-name">Sara Ahmed</div>
+                    <div class="cand-email">sara.ahmed@gmail.com</div>
+                  </div>
+                </div>
+              </td>
+              <td>
+                <div class="score score-high">82</div>
+                <div class="score-bar-track"><div class="score-bar-fill bar-high" style="width:82%"></div></div>
+              </td>
+              <td>
+                <div class="badges-row">
+                  <span class="badge badge-violet">Interview Invited</span>
+                  <span class="badge badge-indigo">2 Emails</span>
+                </div>
+              </td>
+              <td><span class="badge rec-yes">Yes</span></td>
+              <td><span class="link-view">View</span></td>
+            </tr>
+            <!-- 4 -->
+            <tr>
+              <td><span class="rank">#4</span></td>
+              <td>
+                <div class="candidate-cell">
+                  <div class="avatar" style="background:hsl(280 50% 94%);color:hsl(280 50% 42%);">FA</div>
+                  <div>
+                    <div class="cand-name">Fahad Ali</div>
+                    <div class="cand-email">fahad.ali@yahoo.com</div>
+                  </div>
+                </div>
+              </td>
+              <td>
+                <div class="score score-good">68</div>
+                <div class="score-bar-track"><div class="score-bar-fill bar-good" style="width:68%"></div></div>
+              </td>
+              <td>
+                <div class="badges-row">
+                  <span class="badge badge-sky">Screened</span>
+                </div>
+              </td>
+              <td><span class="badge rec-maybe">Maybe</span></td>
+              <td><span class="link-view">View</span></td>
+            </tr>
+            <!-- 5 -->
+            <tr>
+              <td><span class="rank">#5</span></td>
+              <td>
+                <div class="candidate-cell">
+                  <div class="avatar" style="background:hsl(200 50% 93%);color:hsl(200 55% 38%);">ZM</div>
+                  <div>
+                    <div class="cand-name">Zainab Malik</div>
+                    <div class="cand-email">zainab.m@hotmail.com</div>
+                  </div>
+                </div>
+              </td>
+              <td>
+                <div class="score score-good">63</div>
+                <div class="score-bar-track"><div class="score-bar-fill bar-good" style="width:63%"></div></div>
+              </td>
+              <td>
+                <div class="badges-row">
+                  <span class="badge badge-zinc">Applied</span>
+                </div>
+              </td>
+              <td><span class="badge rec-maybe">Maybe</span></td>
+              <td><span class="link-view">View</span></td>
+            </tr>
+            <!-- 6 -->
+            <tr>
+              <td><span class="rank">#6</span></td>
+              <td>
+                <div class="candidate-cell">
+                  <div class="avatar" style="background:hsl(350 50% 94%);color:hsl(350 50% 40%);">UH</div>
+                  <div>
+                    <div class="cand-name">Usman Hussain</div>
+                    <div class="cand-email">usman.h@gmail.com</div>
+                  </div>
+                </div>
+              </td>
+              <td>
+                <div class="score score-mid">45</div>
+                <div class="score-bar-track"><div class="score-bar-fill bar-mid" style="width:45%"></div></div>
+              </td>
+              <td>
+                <div class="badges-row">
+                  <span class="badge badge-rose">Rejected</span>
+                  <span class="badge badge-indigo">1 Email</span>
+                </div>
+              </td>
+              <td><span class="badge rec-no">No</span></td>
+              <td><span class="link-view">View</span></td>
+            </tr>
+            <!-- 7 -->
+            <tr>
+              <td><span class="rank">#7</span></td>
+              <td>
+                <div class="candidate-cell">
+                  <div class="avatar">MI</div>
+                  <div>
+                    <div class="cand-name">Maria Iqbal</div>
+                    <div class="cand-email">maria.iqbal@proton.me</div>
+                  </div>
+                </div>
+              </td>
+              <td>
+                <div class="score" style="color: hsl(214 6% 45%);">-</div>
+              </td>
+              <td>
+                <div class="badges-row">
+                  <span class="badge badge-zinc">Pending</span>
+                </div>
+              </td>
+              <td><span style="color: hsl(214 6% 45%);">-</span></td>
+              <td>
+                <span style="font-size:12.5px;font-weight:500;color:hsl(212 76% 51%);cursor:pointer;margin-right:12px;">Analyze</span>
+                <span class="link-view">View</span>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <!-- Watermark -->
+  <div class="watermark">
+    <span class="watermark-dot"></span>
+    AI-powered screening
+  </div>
+
+</div>
+</div>
+</body>
+</html>

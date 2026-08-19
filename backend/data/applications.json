@@ -1,0 +1,1722 @@
+{
+  "52201029-21de-4e68-b37d-794cd85500d2": {
+    "id": "52201029-21de-4e68-b37d-794cd85500d2",
+    "candidate_id": "18a18958-724c-4e36-af2c-d498002352be",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "pipeline_stage": "interview_done",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-18T13:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 8 years, mostly on internal tools. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into clean data models. On Routemap I rewrote the export layer and cut response times noticeably.",
+      "self_learning": "I finished a course on testing strategy this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-18T13:00:00",
+    "updated_at": "2026-07-18T13:00:00"
+  },
+  "a7998be4-3601-4ffd-aadd-864f99fdaef1": {
+    "id": "a7998be4-3601-4ffd-aadd-864f99fdaef1",
+    "candidate_id": "1109567e-1f9c-44f4-b0d9-26a1b68ed947",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "pipeline_stage": "rejected",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-06-16T12:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 3 years, mostly on internal tools. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into accessible interfaces. On Cartwheel I rewrote the search layer and cut response times noticeably.",
+      "self_learning": "I finished a course on TypeScript type design this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-16T12:00:00",
+    "updated_at": "2026-06-16T12:00:00"
+  },
+  "d9cb377c-9a09-470c-a666-bd0baae80605": {
+    "id": "d9cb377c-9a09-470c-a666-bd0baae80605",
+    "candidate_id": "1109567e-1f9c-44f4-b0d9-26a1b68ed947",
+    "job_id": "default-job",
+    "pipeline_stage": "interview_scheduled",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-06-16T12:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 3 years, mostly on internal tools. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into accessible interfaces. On Cartwheel I rewrote the search layer and cut response times noticeably.",
+      "self_learning": "I finished a course on TypeScript type design this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-16T12:00:00",
+    "updated_at": "2026-06-16T12:00:00"
+  },
+  "45cdc49e-c053-4cb8-8867-d6a700f80430": {
+    "id": "45cdc49e-c053-4cb8-8867-d6a700f80430",
+    "candidate_id": "9cdbca4a-dbfd-4a99-b41e-0b45c7b37977",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "pipeline_stage": "offer",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-10T10:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 2 years, mostly on web applications. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into clean data models. On Pinboard I rewrote the search layer and cut response times noticeably.",
+      "self_learning": "I finished a course on TypeScript type design this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-10T10:00:00",
+    "updated_at": "2026-07-10T10:00:00"
+  },
+  "717e1d17-8ee0-4e39-88fb-70a27424e129": {
+    "id": "717e1d17-8ee0-4e39-88fb-70a27424e129",
+    "candidate_id": "41b303c5-4319-4ff2-ab60-19402d6c9052",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "pipeline_stage": "interview_done",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-06-15T15:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 5 years, mostly on API work. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On my last project I rewrote the export layer and cut response times noticeably.",
+      "self_learning": "I finished a course on TypeScript type design this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-15T15:00:00",
+    "updated_at": "2026-06-15T15:00:00"
+  },
+  "b66755bf-2146-4dca-89a6-73572d7793ee": {
+    "id": "b66755bf-2146-4dca-89a6-73572d7793ee",
+    "candidate_id": "34093b2f-c2d8-4415-bc47-bccc14aad51e",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "pipeline_stage": "screened",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-29T10:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 4 years, mostly on API work. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On Pinboard I rewrote the auth layer and cut response times noticeably.",
+      "self_learning": "I finished a course on distributed systems this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-29T10:00:00",
+    "updated_at": "2026-07-29T10:00:00"
+  },
+  "030150c3-3610-46a6-ab9e-dfb921ccbb18": {
+    "id": "030150c3-3610-46a6-ab9e-dfb921ccbb18",
+    "candidate_id": "f34c6096-c65e-4788-85a6-7e7495a72ef9",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "pipeline_stage": "applied",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-23T12:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 6 years, mostly on mobile apps. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into clean data models. On my last project I rewrote the auth layer and cut response times noticeably.",
+      "self_learning": "I finished a course on testing strategy this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-23T12:00:00",
+    "updated_at": "2026-07-23T12:00:00"
+  },
+  "ace8c118-5344-416a-9e7f-00de9594ad9a": {
+    "id": "ace8c118-5344-416a-9e7f-00de9594ad9a",
+    "candidate_id": "eb909406-ee19-4f5b-b6e3-710b9f55c1e2",
+    "job_id": "default-job",
+    "pipeline_stage": "interview_invited",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-06-23T18:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 4 years, mostly on internal tools. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On Tallyhouse I rewrote the search layer and cut response times noticeably.",
+      "self_learning": "I finished a course on distributed systems this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-23T18:00:00",
+    "updated_at": "2026-06-23T18:00:00"
+  },
+  "08fe8f4a-0430-4368-be1d-452da5f7eeba": {
+    "id": "08fe8f4a-0430-4368-be1d-452da5f7eeba",
+    "candidate_id": "1668c68c-ac5c-4db2-9b66-8712d05577eb",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "pipeline_stage": "interview_invited",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-17T11:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 5 years, mostly on API work. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into developer tooling. On my last project I rewrote the auth layer and cut response times noticeably.",
+      "self_learning": "I finished a course on TypeScript type design this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-17T11:00:00",
+    "updated_at": "2026-07-17T11:00:00"
+  },
+  "bea43579-6dd3-4fdf-9761-befc769da2c6": {
+    "id": "bea43579-6dd3-4fdf-9761-befc769da2c6",
+    "candidate_id": "eb1a1137-f16f-4ea3-9887-9625c227f0b7",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "pipeline_stage": "offer",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-06-03T10:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 1 years, mostly on API work. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into developer tooling. On Ledger Sync I rewrote the export layer and cut response times noticeably.",
+      "self_learning": "I finished a course on distributed systems this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-03T10:00:00",
+    "updated_at": "2026-06-03T10:00:00"
+  },
+  "752dd723-1aa0-48d6-9bfe-78f737603d29": {
+    "id": "752dd723-1aa0-48d6-9bfe-78f737603d29",
+    "candidate_id": "6a497e5d-5ebc-4a0d-8920-ca98ad992e3f",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-21T10:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 9 years, mostly on internal tools. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into accessible interfaces. On Fieldnote I rewrote the search layer and cut response times noticeably.",
+      "self_learning": "I finished a course on database internals this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-21T10:00:00",
+    "updated_at": "2026-07-21T10:00:00"
+  },
+  "89e67927-9bf0-413b-a168-bd2959f15e90": {
+    "id": "89e67927-9bf0-413b-a168-bd2959f15e90",
+    "candidate_id": "7a5583f2-1943-4389-9d0b-22ad49074eb5",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "pipeline_stage": "rejected",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-06-25T15:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 5 years, mostly on API work. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On Routemap I rewrote the sync layer and cut response times noticeably.",
+      "self_learning": "I finished a course on database internals this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-25T15:00:00",
+    "updated_at": "2026-06-25T15:00:00"
+  },
+  "00f8d2ae-7b87-4953-89db-70a4b5039f08": {
+    "id": "00f8d2ae-7b87-4953-89db-70a4b5039f08",
+    "candidate_id": "b8eef351-12b5-40e0-aeab-0be878fb1ef4",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-04T14:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 2 years, mostly on internal tools. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into accessible interfaces. On my last project I rewrote the sync layer and cut response times noticeably.",
+      "self_learning": "I finished a course on database internals this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-04T14:00:00",
+    "updated_at": "2026-07-04T14:00:00"
+  },
+  "ea7ba865-b3e4-4d22-9637-6a751f017588": {
+    "id": "ea7ba865-b3e4-4d22-9637-6a751f017588",
+    "candidate_id": "c10275b9-553a-4e86-977b-fd7df83d99e5",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "pipeline_stage": "interview_scheduled",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-06T10:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 2 years, mostly on API work. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into developer tooling. On Cartwheel I rewrote the auth layer and cut response times noticeably.",
+      "self_learning": "I finished a course on TypeScript type design this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-06T10:00:00",
+    "updated_at": "2026-07-06T10:00:00"
+  },
+  "a5900d92-d175-493d-8e6d-df45c37ed8a2": {
+    "id": "a5900d92-d175-493d-8e6d-df45c37ed8a2",
+    "candidate_id": "eba00b1c-e8e0-4b7f-a10f-8cf58344c6ce",
+    "job_id": "default-job",
+    "pipeline_stage": "hired",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-06-05T11:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 5 years, mostly on web applications. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On Ledger Sync I rewrote the sync layer and cut response times noticeably.",
+      "self_learning": "I finished a course on database internals this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-05T11:00:00",
+    "updated_at": "2026-06-05T11:00:00"
+  },
+  "c690077b-88f7-413d-b5eb-e41bd9cdd58f": {
+    "id": "c690077b-88f7-413d-b5eb-e41bd9cdd58f",
+    "candidate_id": "eba00b1c-e8e0-4b7f-a10f-8cf58344c6ce",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "pipeline_stage": "interview_done",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-06-05T11:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 5 years, mostly on web applications. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On Ledger Sync I rewrote the sync layer and cut response times noticeably.",
+      "self_learning": "I finished a course on database internals this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-05T11:00:00",
+    "updated_at": "2026-06-05T11:00:00"
+  },
+  "2fe3e0da-c531-45e9-93fe-1b80ceea0dac": {
+    "id": "2fe3e0da-c531-45e9-93fe-1b80ceea0dac",
+    "candidate_id": "a7be52ae-a5ce-4ba6-ad19-1fd90eddaca6",
+    "job_id": "default-job",
+    "pipeline_stage": "interview_invited",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-14T11:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 3 years, mostly on web applications. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into accessible interfaces. On Fieldnote I rewrote the search layer and cut response times noticeably.",
+      "self_learning": "I finished a course on database internals this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-14T11:00:00",
+    "updated_at": "2026-07-14T11:00:00"
+  },
+  "50d7e366-7e8e-4e70-a819-2c13ad0d2aa9": {
+    "id": "50d7e366-7e8e-4e70-a819-2c13ad0d2aa9",
+    "candidate_id": "e471cac5-835b-42a8-a982-6299c5d00db7",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "pipeline_stage": "rejected",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-06T13:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 2 years, mostly on web applications. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On my last project I rewrote the search layer and cut response times noticeably.",
+      "self_learning": "I finished a course on testing strategy this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-06T13:00:00",
+    "updated_at": "2026-07-06T13:00:00"
+  },
+  "cf6f9bf3-4643-468f-bd37-564b4579e837": {
+    "id": "cf6f9bf3-4643-468f-bd37-564b4579e837",
+    "candidate_id": "3e049be7-4650-4642-bb66-f877cc829964",
+    "job_id": "default-job",
+    "pipeline_stage": "interview_scheduled",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-20T12:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 8 years, mostly on internal tools. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On Tallyhouse I rewrote the sync layer and cut response times noticeably.",
+      "self_learning": "I finished a course on TypeScript type design this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-20T12:00:00",
+    "updated_at": "2026-07-20T12:00:00"
+  },
+  "ea1077f0-566b-4939-9fe1-a5391cfa2d1d": {
+    "id": "ea1077f0-566b-4939-9fe1-a5391cfa2d1d",
+    "candidate_id": "c54c5c3c-1944-422a-9d52-a3886b742a22",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "pipeline_stage": "rejected",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-08T11:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 3 years, mostly on mobile apps. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into accessible interfaces. On my last project I rewrote the auth layer and cut response times noticeably.",
+      "self_learning": "I finished a course on testing strategy this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-08T11:00:00",
+    "updated_at": "2026-07-08T11:00:00"
+  },
+  "8711ea6c-5ebc-4b85-8ad9-eaa40fb6bbe3": {
+    "id": "8711ea6c-5ebc-4b85-8ad9-eaa40fb6bbe3",
+    "candidate_id": "504ab851-430c-45ed-930f-7add7d1959b3",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "pipeline_stage": "interview_invited",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-06-05T16:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 2 years, mostly on API work. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On Ledger Sync I rewrote the auth layer and cut response times noticeably.",
+      "self_learning": "I finished a course on database internals this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-05T16:00:00",
+    "updated_at": "2026-06-05T16:00:00"
+  },
+  "367b0f4d-b4d4-4869-8599-aa6c44ddf87b": {
+    "id": "367b0f4d-b4d4-4869-8599-aa6c44ddf87b",
+    "candidate_id": "d49c4146-cdb3-4707-88de-749b42701f4a",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-06-30T14:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 6 years, mostly on internal tools. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into accessible interfaces. On Routemap I rewrote the auth layer and cut response times noticeably.",
+      "self_learning": "I finished a course on testing strategy this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-30T14:00:00",
+    "updated_at": "2026-06-30T14:00:00"
+  },
+  "bd896cab-3d31-4976-8e5c-86d0a06b2251": {
+    "id": "bd896cab-3d31-4976-8e5c-86d0a06b2251",
+    "candidate_id": "088eeb5b-fa72-43ab-85d3-c285052fb779",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "pipeline_stage": "rejected",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-06-10T18:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 1 years, mostly on internal tools. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On Fieldnote I rewrote the sync layer and cut response times noticeably.",
+      "self_learning": "I finished a course on testing strategy this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-10T18:00:00",
+    "updated_at": "2026-06-10T18:00:00"
+  },
+  "67987a3c-a8fa-426d-9585-3170a08c057d": {
+    "id": "67987a3c-a8fa-426d-9585-3170a08c057d",
+    "candidate_id": "3d72e108-ae3a-40de-8014-76b655c56542",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "pipeline_stage": "rejected",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-06-20T12:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 2 years, mostly on API work. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On my last project I rewrote the search layer and cut response times noticeably.",
+      "self_learning": "I finished a course on distributed systems this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-20T12:00:00",
+    "updated_at": "2026-06-20T12:00:00"
+  },
+  "3dc09523-c2fc-4378-b63e-a49a4b1ab568": {
+    "id": "3dc09523-c2fc-4378-b63e-a49a4b1ab568",
+    "candidate_id": "066025fd-e298-41da-bb53-44c1d20d6fd7",
+    "job_id": "default-job",
+    "pipeline_stage": "interview_invited",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-06-03T10:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 6 years, mostly on API work. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On Pinboard I rewrote the sync layer and cut response times noticeably.",
+      "self_learning": "I finished a course on database internals this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-03T10:00:00",
+    "updated_at": "2026-06-03T10:00:00"
+  },
+  "4401aa72-5e90-4197-bae9-399ac222fbb3": {
+    "id": "4401aa72-5e90-4197-bae9-399ac222fbb3",
+    "candidate_id": "2b1d06e9-63a6-4fc7-9f57-169d5e1d65a1",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "pipeline_stage": "rejected",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-08T13:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 2 years, mostly on internal tools. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into developer tooling. On Tallyhouse I rewrote the sync layer and cut response times noticeably.",
+      "self_learning": "I finished a course on distributed systems this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-08T13:00:00",
+    "updated_at": "2026-07-08T13:00:00"
+  },
+  "39e24538-5581-43a0-87ed-a6c7166ab884": {
+    "id": "39e24538-5581-43a0-87ed-a6c7166ab884",
+    "candidate_id": "2b1d06e9-63a6-4fc7-9f57-169d5e1d65a1",
+    "job_id": "default-job",
+    "pipeline_stage": "screened",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-08T13:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 2 years, mostly on internal tools. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into developer tooling. On Tallyhouse I rewrote the sync layer and cut response times noticeably.",
+      "self_learning": "I finished a course on distributed systems this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-08T13:00:00",
+    "updated_at": "2026-07-08T13:00:00"
+  },
+  "2e8cd433-bfd5-43c4-bbdb-260607177653": {
+    "id": "2e8cd433-bfd5-43c4-bbdb-260607177653",
+    "candidate_id": "08081637-79c3-40f4-9395-d7bc53155f58",
+    "job_id": "default-job",
+    "pipeline_stage": "screened",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-06-20T15:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 7 years, mostly on API work. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On Tallyhouse I rewrote the sync layer and cut response times noticeably.",
+      "self_learning": "I finished a course on distributed systems this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-20T15:00:00",
+    "updated_at": "2026-06-20T15:00:00"
+  },
+  "53b05f02-c3ac-43f9-80cf-1b11d9ead679": {
+    "id": "53b05f02-c3ac-43f9-80cf-1b11d9ead679",
+    "candidate_id": "44d84d39-f070-42ed-8714-6280fc8b8817",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "pipeline_stage": "interview_scheduled",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-06-02T10:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 2 years, mostly on API work. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into accessible interfaces. On Routemap I rewrote the search layer and cut response times noticeably.",
+      "self_learning": "I finished a course on TypeScript type design this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-02T10:00:00",
+    "updated_at": "2026-06-02T10:00:00"
+  },
+  "2672f7f3-a617-440d-b321-76e4f2483af1": {
+    "id": "2672f7f3-a617-440d-b321-76e4f2483af1",
+    "candidate_id": "1276ceaf-c521-4df5-9d87-02c26916dad4",
+    "job_id": "default-job",
+    "pipeline_stage": "offer",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-06-07T16:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 4 years, mostly on internal tools. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into clean data models. On my last project I rewrote the export layer and cut response times noticeably.",
+      "self_learning": "I finished a course on testing strategy this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-07T16:00:00",
+    "updated_at": "2026-06-07T16:00:00"
+  },
+  "1140651f-ff71-4bda-9383-3dacc2e06f0a": {
+    "id": "1140651f-ff71-4bda-9383-3dacc2e06f0a",
+    "candidate_id": "6cc46817-4178-4d1b-8d53-94da403a5282",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "pipeline_stage": "rejected",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-15T11:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 3 years, mostly on web applications. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into clean data models. On my last project I rewrote the auth layer and cut response times noticeably.",
+      "self_learning": "I finished a course on distributed systems this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-15T11:00:00",
+    "updated_at": "2026-07-15T11:00:00"
+  },
+  "c1a87e13-07f7-4aed-a472-d85af61e6ac4": {
+    "id": "c1a87e13-07f7-4aed-a472-d85af61e6ac4",
+    "candidate_id": "9a8aa232-a32a-4564-a785-05a20ac2a882",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "pipeline_stage": "interview_scheduled",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-01T12:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 3 years, mostly on internal tools. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into accessible interfaces. On Fieldnote I rewrote the auth layer and cut response times noticeably.",
+      "self_learning": "I finished a course on database internals this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-01T12:00:00",
+    "updated_at": "2026-07-01T12:00:00"
+  },
+  "637ebbe6-b41b-4600-9ea1-c4300e6dbf60": {
+    "id": "637ebbe6-b41b-4600-9ea1-c4300e6dbf60",
+    "candidate_id": "9a8aa232-a32a-4564-a785-05a20ac2a882",
+    "job_id": "default-job",
+    "pipeline_stage": "rejected",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-01T12:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 3 years, mostly on internal tools. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into accessible interfaces. On Fieldnote I rewrote the auth layer and cut response times noticeably.",
+      "self_learning": "I finished a course on database internals this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-01T12:00:00",
+    "updated_at": "2026-07-01T12:00:00"
+  },
+  "3f35af08-b9fa-44de-b4ef-09f8c709d3bb": {
+    "id": "3f35af08-b9fa-44de-b4ef-09f8c709d3bb",
+    "candidate_id": "8847b4a4-9f12-45b5-a283-32012d0f4f5f",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "pipeline_stage": "interview_scheduled",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-03T10:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 1 years, mostly on internal tools. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into accessible interfaces. On Routemap I rewrote the search layer and cut response times noticeably.",
+      "self_learning": "I finished a course on database internals this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-03T10:00:00",
+    "updated_at": "2026-07-03T10:00:00"
+  },
+  "c28fca95-d536-4bb5-9526-0dd2337c3303": {
+    "id": "c28fca95-d536-4bb5-9526-0dd2337c3303",
+    "candidate_id": "ae41d8d3-d341-4217-afbf-c5e09a7b8d15",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "pipeline_stage": "offer",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-06-13T12:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 5 years, mostly on mobile apps. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into developer tooling. On my last project I rewrote the sync layer and cut response times noticeably.",
+      "self_learning": "I finished a course on distributed systems this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-13T12:00:00",
+    "updated_at": "2026-06-13T12:00:00"
+  },
+  "83c56de9-3718-4d80-a017-41cd33baa7c6": {
+    "id": "83c56de9-3718-4d80-a017-41cd33baa7c6",
+    "candidate_id": "808567aa-2485-4f5c-a7bf-dd889a168e92",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "pipeline_stage": "hired",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-06-06T18:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 3 years, mostly on internal tools. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On Pinboard I rewrote the auth layer and cut response times noticeably.",
+      "self_learning": "I finished a course on database internals this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-06T18:00:00",
+    "updated_at": "2026-06-06T18:00:00"
+  },
+  "b2c67049-c700-4283-a00f-18463215106b": {
+    "id": "b2c67049-c700-4283-a00f-18463215106b",
+    "candidate_id": "eecbec48-8277-4a9b-8e12-504adec16f1b",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "pipeline_stage": "applied",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-06-04T15:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 1 years, mostly on mobile apps. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into clean data models. On my last project I rewrote the sync layer and cut response times noticeably.",
+      "self_learning": "I finished a course on testing strategy this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-04T15:00:00",
+    "updated_at": "2026-06-04T15:00:00"
+  },
+  "103ff92f-5419-4e2d-b65b-49227debba6b": {
+    "id": "103ff92f-5419-4e2d-b65b-49227debba6b",
+    "candidate_id": "939e3857-4eca-4984-ae12-8b9d395e31d4",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "pipeline_stage": "applied",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-29T15:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 6 years, mostly on API work. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into accessible interfaces. On Routemap I rewrote the export layer and cut response times noticeably.",
+      "self_learning": "I finished a course on database internals this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-29T15:00:00",
+    "updated_at": "2026-07-29T15:00:00"
+  },
+  "b019bb6f-c0c2-49ca-af0b-894afa67ebcb": {
+    "id": "b019bb6f-c0c2-49ca-af0b-894afa67ebcb",
+    "candidate_id": "939e3857-4eca-4984-ae12-8b9d395e31d4",
+    "job_id": "default-job",
+    "pipeline_stage": "rejected",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-29T15:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 6 years, mostly on API work. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into accessible interfaces. On Routemap I rewrote the export layer and cut response times noticeably.",
+      "self_learning": "I finished a course on database internals this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-29T15:00:00",
+    "updated_at": "2026-07-29T15:00:00"
+  },
+  "c54e764f-3918-48dc-b06f-addb9e248418": {
+    "id": "c54e764f-3918-48dc-b06f-addb9e248418",
+    "candidate_id": "ea294b44-6fa3-43ac-bcdf-35e75906e8a7",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "pipeline_stage": "interview_scheduled",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-23T15:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 2 years, mostly on mobile apps. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into clean data models. On Routemap I rewrote the export layer and cut response times noticeably.",
+      "self_learning": "I finished a course on testing strategy this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-23T15:00:00",
+    "updated_at": "2026-07-23T15:00:00"
+  },
+  "dd12fdf7-2452-4b28-b4d1-0af3afea25e7": {
+    "id": "dd12fdf7-2452-4b28-b4d1-0af3afea25e7",
+    "candidate_id": "ea294b44-6fa3-43ac-bcdf-35e75906e8a7",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "pipeline_stage": "rejected",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-23T15:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 2 years, mostly on mobile apps. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into clean data models. On Routemap I rewrote the export layer and cut response times noticeably.",
+      "self_learning": "I finished a course on testing strategy this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-23T15:00:00",
+    "updated_at": "2026-07-23T15:00:00"
+  },
+  "017a4fad-7dfe-4a80-98b3-0dfba71281b0": {
+    "id": "017a4fad-7dfe-4a80-98b3-0dfba71281b0",
+    "candidate_id": "dbe7b259-ffab-4773-ad9d-90151e43519d",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "pipeline_stage": "hired",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-10T17:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 4 years, mostly on mobile apps. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into developer tooling. On my last project I rewrote the search layer and cut response times noticeably.",
+      "self_learning": "I finished a course on database internals this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-10T17:00:00",
+    "updated_at": "2026-07-10T17:00:00"
+  },
+  "e3a2bdea-06f4-4984-a0fe-c61180dafdbd": {
+    "id": "e3a2bdea-06f4-4984-a0fe-c61180dafdbd",
+    "candidate_id": "dbe7b259-ffab-4773-ad9d-90151e43519d",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "pipeline_stage": "offer",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-10T17:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 4 years, mostly on mobile apps. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into developer tooling. On my last project I rewrote the search layer and cut response times noticeably.",
+      "self_learning": "I finished a course on database internals this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-10T17:00:00",
+    "updated_at": "2026-07-10T17:00:00"
+  },
+  "cd80056a-6e5d-4860-9f55-269ccd9900ba": {
+    "id": "cd80056a-6e5d-4860-9f55-269ccd9900ba",
+    "candidate_id": "54f74ae7-2506-4ffa-b5cd-6098c9557e4d",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-13T10:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 3 years, mostly on web applications. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into accessible interfaces. On my last project I rewrote the sync layer and cut response times noticeably.",
+      "self_learning": "I finished a course on database internals this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-13T10:00:00",
+    "updated_at": "2026-07-13T10:00:00"
+  },
+  "91467c48-5b15-4299-b0a2-08009eff2804": {
+    "id": "91467c48-5b15-4299-b0a2-08009eff2804",
+    "candidate_id": "1d889c33-d384-43c1-bc1f-b308ae41242d",
+    "job_id": "233fefcf-8c06-4afa-a4d3-e282b87a6009",
+    "pipeline_stage": "applied",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-20T09:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 6 years, mostly on mobile apps. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On Cartwheel I rewrote the search layer and cut response times noticeably.",
+      "self_learning": "I finished a course on TypeScript type design this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-20T09:00:00",
+    "updated_at": "2026-07-20T09:00:00"
+  },
+  "e7a8e743-07ec-435d-a31b-b57b7660934d": {
+    "id": "e7a8e743-07ec-435d-a31b-b57b7660934d",
+    "candidate_id": "1d889c33-d384-43c1-bc1f-b308ae41242d",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "pipeline_stage": "interview_done",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-20T09:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 6 years, mostly on mobile apps. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On Cartwheel I rewrote the search layer and cut response times noticeably.",
+      "self_learning": "I finished a course on TypeScript type design this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-20T09:00:00",
+    "updated_at": "2026-07-20T09:00:00"
+  },
+  "eefb82c9-3088-4ade-9836-dd56195a91e5": {
+    "id": "eefb82c9-3088-4ade-9836-dd56195a91e5",
+    "candidate_id": "b8ba0de4-cee9-490e-8c82-4de23542ba49",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "pipeline_stage": "screened",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-06-19T18:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 2 years, mostly on internal tools. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into accessible interfaces. On Cartwheel I rewrote the export layer and cut response times noticeably.",
+      "self_learning": "I finished a course on database internals this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-19T18:00:00",
+    "updated_at": "2026-06-19T18:00:00"
+  },
+  "24795294-9040-4d04-94bf-578d2e4144c4": {
+    "id": "24795294-9040-4d04-94bf-578d2e4144c4",
+    "candidate_id": "7c52dbd4-bf84-45e8-a907-8d7fa18ba9d2",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "pipeline_stage": "interview_scheduled",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-06-23T09:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 2 years, mostly on API work. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On Pinboard I rewrote the search layer and cut response times noticeably.",
+      "self_learning": "I finished a course on TypeScript type design this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-23T09:00:00",
+    "updated_at": "2026-06-23T09:00:00"
+  },
+  "f3f42d33-917f-40ec-b84e-684894bc84f5": {
+    "id": "f3f42d33-917f-40ec-b84e-684894bc84f5",
+    "candidate_id": "0241f811-182c-484a-990b-2c22d699e8ad",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "pipeline_stage": "applied",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-06-25T09:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 3 years, mostly on web applications. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into accessible interfaces. On Tallyhouse I rewrote the search layer and cut response times noticeably.",
+      "self_learning": "I finished a course on distributed systems this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-25T09:00:00",
+    "updated_at": "2026-06-25T09:00:00"
+  },
+  "6718996c-e082-46bf-9e73-02f5bcc90a4d": {
+    "id": "6718996c-e082-46bf-9e73-02f5bcc90a4d",
+    "candidate_id": "6ec8e5ce-aa99-4251-b2ff-24c3b8325dcb",
+    "job_id": "default-job",
+    "pipeline_stage": "rejected",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-06-29T13:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 5 years, mostly on web applications. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into clean data models. On my last project I rewrote the sync layer and cut response times noticeably.",
+      "self_learning": "I finished a course on database internals this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-29T13:00:00",
+    "updated_at": "2026-06-29T13:00:00"
+  },
+  "c57f2cf4-3eae-417c-976b-6319cb8075dc": {
+    "id": "c57f2cf4-3eae-417c-976b-6319cb8075dc",
+    "candidate_id": "82fc9c57-ae18-480a-9bf8-6af96eab8149",
+    "job_id": "default-job",
+    "pipeline_stage": "screened",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-06-08T17:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 4 years, mostly on mobile apps. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On Pinboard I rewrote the search layer and cut response times noticeably.",
+      "self_learning": "I finished a course on database internals this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-08T17:00:00",
+    "updated_at": "2026-06-08T17:00:00"
+  },
+  "09474a9d-2808-4d93-b03d-682623e0eba2": {
+    "id": "09474a9d-2808-4d93-b03d-682623e0eba2",
+    "candidate_id": "318e1b21-a924-42d2-8735-8a15b06090f9",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "pipeline_stage": "interview_done",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-06-20T12:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 11 years, mostly on API work. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On Ledger Sync I rewrote the export layer and cut response times noticeably.",
+      "self_learning": "I finished a course on TypeScript type design this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-20T12:00:00",
+    "updated_at": "2026-06-20T12:00:00"
+  },
+  "b1391be7-5b8d-40b0-8012-04039d50df5f": {
+    "id": "b1391be7-5b8d-40b0-8012-04039d50df5f",
+    "candidate_id": "605adf98-86e0-439e-ab80-90bb4584f1c8",
+    "job_id": "359c88de-33d7-4a01-8760-8eaa293dff6c",
+    "pipeline_stage": "screened",
+    "stage_history": [
+      {
+        "from_stage": null,
+        "to_stage": "applied",
+        "changed_at": "2026-07-04T17:00:00",
+        "changed_by": "system",
+        "notes": null
+      }
+    ],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 9 years, mostly on web applications. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On my last project I rewrote the sync layer and cut response times noticeably.",
+      "self_learning": "I finished a course on TypeScript type design this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-04T17:00:00",
+    "updated_at": "2026-07-04T17:00:00"
+  },
+  "b9326d87-4d3b-41dc-a79e-0a1a40e2aa08": {
+    "id": "b9326d87-4d3b-41dc-a79e-0a1a40e2aa08",
+    "candidate_id": "18a18958-724c-4e36-af2c-d498002352be",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 8 years, mostly on internal tools. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into clean data models. On Routemap I rewrote the export layer and cut response times noticeably.",
+      "self_learning": "I finished a course on testing strategy this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-18T13:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  },
+  "ad628c8c-ea13-4a68-9027-381426ca4610": {
+    "id": "ad628c8c-ea13-4a68-9027-381426ca4610",
+    "candidate_id": "9cdbca4a-dbfd-4a99-b41e-0b45c7b37977",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 2 years, mostly on web applications. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into clean data models. On Pinboard I rewrote the search layer and cut response times noticeably.",
+      "self_learning": "I finished a course on TypeScript type design this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-10T10:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  },
+  "da8bc859-1e3b-4f86-9882-e0c29f799fa8": {
+    "id": "da8bc859-1e3b-4f86-9882-e0c29f799fa8",
+    "candidate_id": "41b303c5-4319-4ff2-ab60-19402d6c9052",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 5 years, mostly on API work. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On my last project I rewrote the export layer and cut response times noticeably.",
+      "self_learning": "I finished a course on TypeScript type design this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-15T15:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  },
+  "6c39fe8b-bd6a-403a-b79f-ae2f470de38a": {
+    "id": "6c39fe8b-bd6a-403a-b79f-ae2f470de38a",
+    "candidate_id": "34093b2f-c2d8-4415-bc47-bccc14aad51e",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 4 years, mostly on API work. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On Pinboard I rewrote the auth layer and cut response times noticeably.",
+      "self_learning": "I finished a course on distributed systems this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-29T10:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  },
+  "fc41ccd2-f70d-4ed4-b94a-d236aa514bde": {
+    "id": "fc41ccd2-f70d-4ed4-b94a-d236aa514bde",
+    "candidate_id": "f34c6096-c65e-4788-85a6-7e7495a72ef9",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 6 years, mostly on mobile apps. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into clean data models. On my last project I rewrote the auth layer and cut response times noticeably.",
+      "self_learning": "I finished a course on testing strategy this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-23T12:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  },
+  "374d3e79-59ce-40d9-bc81-343c124c2aec": {
+    "id": "374d3e79-59ce-40d9-bc81-343c124c2aec",
+    "candidate_id": "1668c68c-ac5c-4db2-9b66-8712d05577eb",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 5 years, mostly on API work. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into developer tooling. On my last project I rewrote the auth layer and cut response times noticeably.",
+      "self_learning": "I finished a course on TypeScript type design this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-17T11:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  },
+  "8a3561c1-bc40-403f-8ea5-6c0baf2255ca": {
+    "id": "8a3561c1-bc40-403f-8ea5-6c0baf2255ca",
+    "candidate_id": "eb1a1137-f16f-4ea3-9887-9625c227f0b7",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 1 years, mostly on API work. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into developer tooling. On Ledger Sync I rewrote the export layer and cut response times noticeably.",
+      "self_learning": "I finished a course on distributed systems this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-03T10:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  },
+  "f6ff58d4-0a85-43df-a3e7-3d53c1819793": {
+    "id": "f6ff58d4-0a85-43df-a3e7-3d53c1819793",
+    "candidate_id": "7a5583f2-1943-4389-9d0b-22ad49074eb5",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 5 years, mostly on API work. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On Routemap I rewrote the sync layer and cut response times noticeably.",
+      "self_learning": "I finished a course on database internals this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-25T15:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  },
+  "105521b8-8beb-42a8-9c8a-4638b0fb159a": {
+    "id": "105521b8-8beb-42a8-9c8a-4638b0fb159a",
+    "candidate_id": "c10275b9-553a-4e86-977b-fd7df83d99e5",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 2 years, mostly on API work. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into developer tooling. On Cartwheel I rewrote the auth layer and cut response times noticeably.",
+      "self_learning": "I finished a course on TypeScript type design this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-06T10:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  },
+  "e1f91b8c-6b14-4f7b-bd9c-bc463ef973d0": {
+    "id": "e1f91b8c-6b14-4f7b-bd9c-bc463ef973d0",
+    "candidate_id": "e471cac5-835b-42a8-a982-6299c5d00db7",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 2 years, mostly on web applications. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On my last project I rewrote the search layer and cut response times noticeably.",
+      "self_learning": "I finished a course on testing strategy this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-06T13:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  },
+  "ba85b5f9-0f59-4cd3-a9f9-5bb2d72d178a": {
+    "id": "ba85b5f9-0f59-4cd3-a9f9-5bb2d72d178a",
+    "candidate_id": "c54c5c3c-1944-422a-9d52-a3886b742a22",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 3 years, mostly on mobile apps. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into accessible interfaces. On my last project I rewrote the auth layer and cut response times noticeably.",
+      "self_learning": "I finished a course on testing strategy this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-08T11:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  },
+  "7c5fad56-97b3-4c7b-9ea3-15ff3274cd3a": {
+    "id": "7c5fad56-97b3-4c7b-9ea3-15ff3274cd3a",
+    "candidate_id": "504ab851-430c-45ed-930f-7add7d1959b3",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 2 years, mostly on API work. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On Ledger Sync I rewrote the auth layer and cut response times noticeably.",
+      "self_learning": "I finished a course on database internals this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-05T16:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  },
+  "858b292d-e59e-4e40-bf3a-67d3b1063fdd": {
+    "id": "858b292d-e59e-4e40-bf3a-67d3b1063fdd",
+    "candidate_id": "088eeb5b-fa72-43ab-85d3-c285052fb779",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 1 years, mostly on internal tools. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On Fieldnote I rewrote the sync layer and cut response times noticeably.",
+      "self_learning": "I finished a course on testing strategy this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-10T18:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  },
+  "59f47740-e6f5-45b7-8043-aff8e52e9483": {
+    "id": "59f47740-e6f5-45b7-8043-aff8e52e9483",
+    "candidate_id": "3d72e108-ae3a-40de-8014-76b655c56542",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 2 years, mostly on API work. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On my last project I rewrote the search layer and cut response times noticeably.",
+      "self_learning": "I finished a course on distributed systems this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-20T12:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  },
+  "55944b11-5634-4bef-9bd6-e311e5dd33c3": {
+    "id": "55944b11-5634-4bef-9bd6-e311e5dd33c3",
+    "candidate_id": "44d84d39-f070-42ed-8714-6280fc8b8817",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 2 years, mostly on API work. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into accessible interfaces. On Routemap I rewrote the search layer and cut response times noticeably.",
+      "self_learning": "I finished a course on TypeScript type design this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-02T10:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  },
+  "2f92def4-e777-47e1-b248-a95dbdbe279d": {
+    "id": "2f92def4-e777-47e1-b248-a95dbdbe279d",
+    "candidate_id": "6cc46817-4178-4d1b-8d53-94da403a5282",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 3 years, mostly on web applications. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into clean data models. On my last project I rewrote the auth layer and cut response times noticeably.",
+      "self_learning": "I finished a course on distributed systems this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-15T11:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  },
+  "44644568-01ad-49a8-816b-6ecf43041c10": {
+    "id": "44644568-01ad-49a8-816b-6ecf43041c10",
+    "candidate_id": "8847b4a4-9f12-45b5-a283-32012d0f4f5f",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 1 years, mostly on internal tools. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into accessible interfaces. On Routemap I rewrote the search layer and cut response times noticeably.",
+      "self_learning": "I finished a course on database internals this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-03T10:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  },
+  "a045dc97-196e-46dc-924b-ccc382dc74b4": {
+    "id": "a045dc97-196e-46dc-924b-ccc382dc74b4",
+    "candidate_id": "ae41d8d3-d341-4217-afbf-c5e09a7b8d15",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 5 years, mostly on mobile apps. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into developer tooling. On my last project I rewrote the sync layer and cut response times noticeably.",
+      "self_learning": "I finished a course on distributed systems this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-13T12:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  },
+  "e5866faa-a9d1-4a3d-abba-553d1f5012fc": {
+    "id": "e5866faa-a9d1-4a3d-abba-553d1f5012fc",
+    "candidate_id": "808567aa-2485-4f5c-a7bf-dd889a168e92",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 3 years, mostly on internal tools. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On Pinboard I rewrote the auth layer and cut response times noticeably.",
+      "self_learning": "I finished a course on database internals this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-06T18:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  },
+  "34464704-760b-48cc-ab31-6615846e9fa2": {
+    "id": "34464704-760b-48cc-ab31-6615846e9fa2",
+    "candidate_id": "eecbec48-8277-4a9b-8e12-504adec16f1b",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 1 years, mostly on mobile apps. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into clean data models. On my last project I rewrote the sync layer and cut response times noticeably.",
+      "self_learning": "I finished a course on testing strategy this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-04T15:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  },
+  "1b7c4f2c-53ff-40dd-a818-26c97caf7b2e": {
+    "id": "1b7c4f2c-53ff-40dd-a818-26c97caf7b2e",
+    "candidate_id": "ea294b44-6fa3-43ac-bcdf-35e75906e8a7",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 2 years, mostly on mobile apps. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into clean data models. On Routemap I rewrote the export layer and cut response times noticeably.",
+      "self_learning": "I finished a course on testing strategy this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-23T15:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  },
+  "0d04e37a-68cc-4e65-afdf-7194d240283f": {
+    "id": "0d04e37a-68cc-4e65-afdf-7194d240283f",
+    "candidate_id": "dbe7b259-ffab-4773-ad9d-90151e43519d",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 4 years, mostly on mobile apps. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into developer tooling. On my last project I rewrote the search layer and cut response times noticeably.",
+      "self_learning": "I finished a course on database internals this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-10T17:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  },
+  "dc5a5380-d0bc-4620-af18-dbd73cd8c62d": {
+    "id": "dc5a5380-d0bc-4620-af18-dbd73cd8c62d",
+    "candidate_id": "1d889c33-d384-43c1-bc1f-b308ae41242d",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 6 years, mostly on mobile apps. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On Cartwheel I rewrote the search layer and cut response times noticeably.",
+      "self_learning": "I finished a course on TypeScript type design this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-20T09:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  },
+  "ab871ea9-159d-4352-a6d7-666c6f460246": {
+    "id": "ab871ea9-159d-4352-a6d7-666c6f460246",
+    "candidate_id": "b8ba0de4-cee9-490e-8c82-4de23542ba49",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 2 years, mostly on internal tools. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into accessible interfaces. On Cartwheel I rewrote the export layer and cut response times noticeably.",
+      "self_learning": "I finished a course on database internals this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-19T18:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  },
+  "a976d850-3322-49ad-bfde-64eb96f15324": {
+    "id": "a976d850-3322-49ad-bfde-64eb96f15324",
+    "candidate_id": "7c52dbd4-bf84-45e8-a907-8d7fa18ba9d2",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 2 years, mostly on API work. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On Pinboard I rewrote the search layer and cut response times noticeably.",
+      "self_learning": "I finished a course on TypeScript type design this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-23T09:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  },
+  "23451afb-77df-4591-9b04-f3f0fa0cd2f5": {
+    "id": "23451afb-77df-4591-9b04-f3f0fa0cd2f5",
+    "candidate_id": "0241f811-182c-484a-990b-2c22d699e8ad",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 3 years, mostly on web applications. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into accessible interfaces. On Tallyhouse I rewrote the search layer and cut response times noticeably.",
+      "self_learning": "I finished a course on distributed systems this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-25T09:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  },
+  "c5e11cb4-dffb-4aec-b061-75c6a8fda62d": {
+    "id": "c5e11cb4-dffb-4aec-b061-75c6a8fda62d",
+    "candidate_id": "318e1b21-a924-42d2-8735-8a15b06090f9",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 11 years, mostly on API work. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On Ledger Sync I rewrote the export layer and cut response times noticeably.",
+      "self_learning": "I finished a course on TypeScript type design this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-06-20T12:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  },
+  "08cf2f18-d295-4605-8601-9df46d67e4aa": {
+    "id": "08cf2f18-d295-4605-8601-9df46d67e4aa",
+    "candidate_id": "605adf98-86e0-439e-ab80-90bb4584f1c8",
+    "job_id": "default-job",
+    "pipeline_stage": "applied",
+    "stage_history": [],
+    "emails_sent": [],
+    "analyzed": true,
+    "application_responses": {
+      "introduction": "I have been writing software for about 9 years, mostly on web applications. I am applying because the role covers the full stack rather than one narrow slice.",
+      "passion_description": "Most of my time goes into performance work. On my last project I rewrote the sync layer and cut response times noticeably.",
+      "self_learning": "I finished a course on TypeScript type design this year and have been rebuilding a small project with what I learned."
+    },
+    "created_at": "2026-07-04T17:00:00",
+    "updated_at": "2026-08-19T13:05:19.697758"
+  }
+}
