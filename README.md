@@ -22,10 +22,10 @@ An AI-powered CV screening system that automatically analyzes resumes and ranks 
 
 ### Prerequisites
 
-- Python 3.11+
+- Python 3.9 or newer
 - Node.js 18+
-- OpenAI API key
-- (Optional) Google Cloud project with Drive API enabled
+- (Optional) An OpenAI API key. Only the CV extraction and analysis endpoints call OpenAI. The candidate list, ranking, filtering and pipeline board all run on the sample data without one.
+- (Optional) Google Cloud project with Drive API enabled, for Drive and Sheets sync
 
 ### Backend Setup
 
@@ -223,4 +223,3 @@ Delete the JSON files in `backend/data/` if you want to start from an empty data
 
 An `OPENAI_API_KEY` is only needed for the analysis and CV extraction endpoints. Everything else, including the ranking table and the pipeline board, runs on the sample data without one.
 
-Python 3.9 runs this fine despite the note above, which is what the original environment used.
